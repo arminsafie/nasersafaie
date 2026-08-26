@@ -1,0 +1,2037 @@
+{
+  "siteName": {
+    "en": "N. Safaie",
+    "fa": "ن. صفایی"
+  },
+  "email": "naser.safaie@gmail.com",
+  "email2": "nsafaie@modares.ac.ir",
+  "phone": "+98 (21) 44194911–14",
+  "fax": "+98 (21) 44196524",
+  "portraitImage": "/images/naser-safaie.jpg",
+  "publications": [
+    {
+      "num": 170,
+      "authors": "Aleahmad P., Ebrahimi L., Safaie N.",
+      "year": 2026,
+      "cited": 0,
+      "doi": "10.1371/journal.pone.0345700",
+      "title": "Biodiversity of Eucalyptus endophytic fungi across different climates in Iran",
+      "venue": "PloS one, 21 (7), pp. e0345700",
+      "category": "scopus"
+    },
+    {
+      "num": 169,
+      "authors": "Kazemi R., Safaie N., Atighi M.R., Shams-Bakhsh M.",
+      "year": 2026,
+      "cited": 1,
+      "doi": "10.1016/j.pmpp.2025.103043",
+      "title": "Biological and chemical inducers modulate growth and defense mechanisms of tomato against tomato leaf curl Palampur virus",
+      "venue": "Physiological and Molecular Plant Pathology, 141, art. no. 103043",
+      "category": "scopus"
+    },
+    {
+      "num": 168,
+      "authors": "Aligholizadeh A., Salehi M., Mahmoudi S.B., Safaie N.",
+      "year": 2026,
+      "cited": 0,
+      "doi": "10.1371/journal.pone.0353217",
+      "title": "Dual biocontrol and osmotic stress mitigation by endophytic Aspergillus micronesiensis and Penicillium momoi against fusarium pathogens",
+      "venue": "PloS one, 21 (7), pp. e0353217",
+      "category": "scopus"
+    },
+    {
+      "num": 167,
+      "authors": "Alizadeh M., Zamani S.M., Safaie N., Mirzaei S., Farahani S., Farashiani M.E., Mazhar A.R., Rashid B.B.",
+      "year": 2026,
+      "cited": 0,
+      "doi": "10.57647/JRS.2026.1602.16",
+      "title": "Fungal Community Associated With Two Declining Rangeland Plants (Haloxylon Ammodendron and Astragalus Verus) in Iran",
+      "venue": "Journal of Rangeland Science, 16 (2), pp. 168 - 181",
+      "category": "scopus"
+    },
+    {
+      "num": 166,
+      "authors": "Farhadi S., Salehi M., Moieni A., Safaie N., Khalili S., Karimzadeh G.",
+      "year": 2026,
+      "cited": 0,
+      "doi": "10.1016/j.indcrop.2026.123072",
+      "title": "Priming followed by eliciting boosts chicoric acid biosynthesis in Echinacea purpurea L",
+      "venue": "hairy roots. Industrial Crops and Products, 245, art. no. 123072",
+      "category": "scopus"
+    },
+    {
+      "num": 165,
+      "authors": "Aleahmad P., Ebrahimi L., Safaie N., Etebarian H.R.",
+      "year": 2025,
+      "cited": 5,
+      "doi": "10.3389/fmicb.2025.1523127",
+      "title": "Antagonism of Eucalyptus endophytic fungi against some important crop fungal diseases",
+      "venue": "Frontiers in Microbiology, 16, art. no. 1523127",
+      "category": "scopus"
+    },
+    {
+      "num": 164,
+      "authors": "Hussein S.N., Safaie N., Shamsbakhsh M., Al-Juboory H.H.",
+      "year": 2025,
+      "cited": 2,
+      "doi": "10.18805/IJARe.AF-916",
+      "title": "Biological Control of Tomato Root Rot Disease by Indigenous Rhizobacteria in Greenhouse Setting",
+      "venue": "Indian Journal of Agricultural Research, 59 (7), pp. 1087 - 1094",
+      "category": "scopus"
+    },
+    {
+      "num": 163,
+      "authors": "Hussein S.N., Safaie N., Shamsbakhsh M., Al-Juboory H.H.",
+      "year": 2025,
+      "cited": 1,
+      "doi": "10.18805/ag.DF-709",
+      "title": "Eco-friendly Management of Rhizoctonia solani, the Cause of Tomato Root Rot Disease",
+      "venue": "Agricultural Science Digest, 45 (4), pp. 657 - 664",
+      "category": "scopus"
+    },
+    {
+      "num": 162,
+      "authors": "Alizadeh M., Safaie N., Azarbad H., Mehrabadi M., Shamsbakhsh M.",
+      "year": 2025,
+      "cited": 1,
+      "doi": "10.1007/s10343-025-01213-w",
+      "title": "Eutypella platanica sp",
+      "venue": "nov. and Other Fungal Genera Cause Oriental Sycamore (Platanus orientalis) Tree Decline in Urban Forests of Iran. Journal of Crop Health, 77 (5), art. no. 144",
+      "category": "scopus"
+    },
+    {
+      "num": 161,
+      "authors": "Qaderi S., Safaie N.",
+      "year": 2025,
+      "cited": 0,
+      "doi": "10.1007/s10343-025-01167-z",
+      "title": "Halotolerant Endophytic Fungi Bioformulations for Salinity Stress Mitigation",
+      "venue": "Journal of Crop Health, 77 (3), art. no. 95",
+      "category": "scopus"
+    },
+    {
+      "num": 160,
+      "authors": "Karimzadeh S., Safaie N., Mojerlou S., Ebrahimi L.",
+      "year": 2025,
+      "cited": 1,
+      "doi": "10.1038/s41598-025-25257-0",
+      "title": "Identity and diversity of culturable endophytic fungi associated with Capparis spinosa L",
+      "venue": "in Iran. Scientific Reports, 15 (1), art. no. 41502",
+      "category": "scopus"
+    },
+    {
+      "num": 159,
+      "authors": "Abbod M., Safaie N., Gholivand K., Mehrabadi M.",
+      "year": 2025,
+      "cited": 0,
+      "doi": "10.22268/AJPP-001305",
+      "title": "In vitro Anti-acetylcholinesterase Evaluation and Molecular Docking Modeling of Some α‑Aminophosphonate Derivatives",
+      "venue": "Arab Journal of Plant Protection, 43 (2), pp. 263 - 267",
+      "category": "scopus"
+    },
+    {
+      "num": 158,
+      "authors": "Rahmanpour S., Najafi M.R., Aghajani M.A., Safaie N.",
+      "year": 2025,
+      "cited": 1,
+      "doi": "10.1371/journal.pone.0330370",
+      "title": "Multilayer perceptron neural network-genetic algorithm for modeling Nicotiana tabacum leaf quality",
+      "venue": "PLOS ONE, 20 (10 October), art. no. e0330370",
+      "category": "scopus"
+    },
+    {
+      "num": 157,
+      "authors": "Khalili S., Moieni A., Safaie N., Sabet M.S.",
+      "year": 2025,
+      "cited": 1,
+      "doi": "10.1371/journal.pone.0323961",
+      "title": "Piriformospora indica culture filtrate and cell extract induce chicoric acid production in Echinacea purpurea hairy roots",
+      "venue": "PLOS ONE, 20 (6 June), art. no. e0323961",
+      "category": "scopus"
+    },
+    {
+      "num": 156,
+      "authors": "Kazemi R., Safaie N., Pedram M., Atighi M.R., Shams-Bakhsh M.",
+      "year": 2025,
+      "cited": 0,
+      "doi": "10.48311/jcp.2025.76293.0",
+      "title": "Reaction of commercial sugar-beet cultivars to beet curly top Iran virus (BCTIV) [واکنش ارقام تجاری چغندرقند به ویروس پیچیدگی برگ چغندر (BCTIV)]",
+      "venue": "Journal of Crop Protection, 14 (4), pp. 363 - 377",
+      "category": "scopus"
+    },
+    {
+      "num": 155,
+      "authors": "Hussein S.N., Safaie N., Shamsbakhsh M., Al-Juboory H.H.",
+      "year": 2025,
+      "cited": 0,
+      "doi": "10.18805/ag.DF-707",
+      "title": "Rhizobacteria from Iraq: A Novel Biocontrol Approach for Tomato Root Rot Disease",
+      "venue": "Agricultural Science Digest, 45 (4), pp. 672 - 678",
+      "category": "scopus"
+    },
+    {
+      "num": 154,
+      "authors": "Dehghan A.K., Zargar M., Bamneshin M., Mahmoudieh M., Safaie N., Yang J.-L., Naghavi M.R.",
+      "year": 2025,
+      "cited": 9,
+      "doi": "10.1186/s12870-025-06230-5",
+      "title": "The effects of Fusarium graminearum cell extracts and culture filtrates on the production of paclitaxel and 10-deacetylbaccatin III in suspension cell cultures of Taxus baccata L.",
+      "venue": "BMC Plant Biology, 25 (1), art. no. 229",
+      "category": "scopus"
+    },
+    {
+      "num": 153,
+      "authors": "Ranjbar Z., Salehi M., Safaie N.",
+      "year": 2024,
+      "cited": 10,
+      "doi": "10.1111/jph.13266",
+      "title": "An endophytic Trichoderma-based wettable powder formulation for biocontrol of apple stem cankers",
+      "venue": "Journal of Phytopathology, 172 (1), art. no. e13266",
+      "category": "scopus"
+    },
+    {
+      "num": 152,
+      "authors": "Jahedi A., Safaie N., Goltapeh E.M., Ahmadifar S.",
+      "year": 2024,
+      "cited": 3,
+      "doi": "10.35535/pfsyst-2024-0019",
+      "title": "Auricularia (wood ear mushroom) genus: a contribution to classification and new species records for Iran and world",
+      "venue": "Plant and Fungal Systematics, 69 (2), pp. 205 - 217",
+      "category": "scopus"
+    },
+    {
+      "num": 151,
+      "authors": "Nourian A., Salehi M., Safaie N., Khelghatibana F.",
+      "year": 2024,
+      "cited": 5,
+      "doi": "10.1007/s00203-024-03852-5",
+      "title": "Biocontrol of Diplodia bulgarica, the causal agent of apple canker, using Trichoderma zelobreve",
+      "venue": "Archives of Microbiology, 206 (3), art. no. 120",
+      "category": "scopus"
+    },
+    {
+      "num": 150,
+      "authors": "Mohammadi N., Safaie N., Nikkhah M., Moradi S.",
+      "year": 2024,
+      "cited": 3,
+      "doi": "10.1016/j.heliyon.2024.e28666",
+      "title": "Chitosan nanoparticle and its effect on Neoscytalidium novaehollandiae, the causal agent of mulberry canker in Tehran",
+      "venue": "Heliyon, 10 (7), art. no. e28666",
+      "category": "scopus"
+    },
+    {
+      "num": 149,
+      "authors": "Safaie N., Salehi M., Felegari M., Farhadi S., Karimzadeh S., Asadi S., Yang J.-L., Naghavi M.R.",
+      "year": 2024,
+      "cited": 6,
+      "doi": "10.3389/fmicb.2024.1363158",
+      "title": "Culture-based diversity of endophytic fungi of three species of Ferula grown in Iran",
+      "venue": "Frontiers in Microbiology, 15, art. no. 1363158",
+      "category": "scopus"
+    },
+    {
+      "num": 148,
+      "authors": "Alizadeh M., Safaie N., Azarbad H., Mehrabadi M., Shamsbakhsh M.",
+      "year": 2024,
+      "cited": 10,
+      "doi": "10.1016/j.pmpp.2024.102384",
+      "title": "Detection of Paecilomyces formosus associated with declining urban forests and beetles in Iran",
+      "venue": "Physiological and Molecular Plant Pathology, 133, art. no. 102384",
+      "category": "scopus"
+    },
+    {
+      "num": 147,
+      "authors": "Salehi M., Safaie N.",
+      "year": 2024,
+      "cited": 8,
+      "doi": "10.3389/fmicb.2024.1345210",
+      "title": "Editorial: Endophytic fungi: secondary metabolites and plant biotic and abiotic stress management",
+      "venue": "Frontiers in Microbiology, 15, art. no. 1345210",
+      "category": "scopus"
+    },
+    {
+      "num": 146,
+      "authors": "Abbod M., Safaie N., Gholivand K.",
+      "year": 2024,
+      "cited": 7,
+      "doi": "10.1016/j.heliyon.2024.e36373",
+      "title": "Genetic algorithm multiple linear regression and machine learning-driven QSTR modeling for the acute toxicity of sterol biosynthesis inhibitor fungicides",
+      "venue": "Heliyon, 10 (16), art. no. e36373",
+      "category": "scopus"
+    },
+    {
+      "num": 145,
+      "authors": "Hussein S.N., Safaie N., Shams-bakhsh M., Al-Juboory H.H.",
+      "year": 2024,
+      "cited": 10,
+      "doi": "10.1016/j.heliyon.2024.e35430",
+      "title": "Harnessing rhizobacteria: Isolation, identification, and antifungal potential against soil pathogens",
+      "venue": "Heliyon, 10 (15), art. no. e35430",
+      "category": "scopus"
+    },
+    {
+      "num": 144,
+      "authors": "Safaie N., Salehi M., Farhadi S., Aligholizadeh A., Mahdizadeh V.",
+      "year": 2024,
+      "cited": 4,
+      "doi": "10.3389/fmicb.2024.1366264",
+      "title": "Lentinula edodes substrate formulation using multilayer perceptron-genetic algorithm: a critical production checkpoint",
+      "venue": "Frontiers in Microbiology, 15, art. no. 1366264",
+      "category": "scopus"
+    },
+    {
+      "num": 143,
+      "authors": "Alizadeh M., Safaie N., Azarbad H., Mehrabadi M., Shams-baksh M., Amini S.",
+      "year": 2024,
+      "cited": 6,
+      "doi": "10.1007/s10343-024-00980-2",
+      "title": "Neoscytalidium novaehollandiae as a Causative Agent of Tree Decline in Urban Forests and Its Potential for Transmission by Reservoirs",
+      "venue": "Journal of Crop Health, 76 (3), pp. 649 - 671",
+      "category": "scopus"
+    },
+    {
+      "num": 142,
+      "authors": "Rahimi-Soujeh Z., Safaie N., Moradi S., Abbod M., Sharifi R., Mojerlou S., Mokhtassi-Bidgoli A.",
+      "year": 2024,
+      "cited": 3,
+      "doi": "10.1016/j.chemosphere.2024.143533",
+      "title": "New binary mixtures of fungicides against Macrophomina phaseolina: Machine learning-driven QSAR, read-across prediction, and molecular dynamics simulation",
+      "venue": "Chemosphere, 366, art. no. 143533",
+      "category": "scopus"
+    },
+    {
+      "num": 141,
+      "authors": "Aleahmad P., Ebrahimi L., Safaie N., Etebarian H.R.",
+      "year": 2024,
+      "cited": 0,
+      "doi": null,
+      "title": "New records of Eucalyptus endophytic fungi for the funga of Iran",
+      "venue": "Journal of Crop Protection, 13 (3), pp. 281 - 291",
+      "category": "scopus"
+    },
+    {
+      "num": 140,
+      "authors": "Abbod M., Safaie N., Gholivand K., Ayyari M.",
+      "year": 2024,
+      "cited": 0,
+      "doi": null,
+      "title": "Potential of new fungicide production from phthalides of Kelussia odoratissima",
+      "venue": "Journal of Crop Protection, 13 (3), pp. 215 - 223",
+      "category": "scopus"
+    },
+    {
+      "num": 139,
+      "authors": "Mafakheri K., Astaraki S., Safaie N., Shams-bakhsh M.",
+      "year": 2024,
+      "cited": 2,
+      "doi": "10.1007/s10658-024-02843-y",
+      "title": "Seed bio-/chemo-priming affects the reaction of sugar beet plants to Beet curly top virus-Svr",
+      "venue": "European Journal of Plant Pathology, 169 (3), pp. 473 - 482",
+      "category": "scopus"
+    },
+    {
+      "num": 138,
+      "authors": "Hasanzadeh M., Mohammadi N., Safaie N., Dadrezaei S.T., Tabatabaei S.N., Eslahi M.R.",
+      "year": 2024,
+      "cited": 1,
+      "doi": "10.48311/jcp.2024.1655",
+      "title": "Spatial-temporal analysis of wheat leaf rust disease(Puccinia triticina Eriks)in Southwestern Iran [زيلانآينامز-يياضفيراميبيگربگنزمدنگ(triticinaPuccinia)Eriks ردبونجيبرغناريا]",
+      "venue": "Journal of Crop Protection, 13 (1), pp. 55 - 74",
+      "category": "scopus"
+    },
+    {
+      "num": 137,
+      "authors": "Karimzadeh S., Safaie N., Mojerlou S., Ebrahimi L.",
+      "year": 2024,
+      "cited": 1,
+      "doi": null,
+      "title": "Two new endophytic Microascus species from Capparis spinosa L",
+      "venue": "in Iran. Journal of Crop Protection, 13 (1), pp. 89 - 99",
+      "category": "scopus"
+    },
+    {
+      "num": 136,
+      "authors": "Khelghatibana F., Javan-Nikkhah M., Safaie N., Sobhani A., Shams S., Sari E.",
+      "year": 2023,
+      "cited": 1,
+      "doi": "10.1016/j.fgb.2023.103828",
+      "title": "A reference transcriptome for walnut anthracnose pathogen, Ophiognomonia leptostyla, guides the discovery of candidate virulence genes",
+      "venue": "Fungal Genetics and Biology, 169, art. no. 103828",
+      "category": "scopus"
+    },
+    {
+      "num": 135,
+      "authors": "Azimi P., Safaie N., Zamani S.M., Mojerlou S., Alizadeh M.",
+      "year": 2023,
+      "cited": 2,
+      "doi": "10.1016/j.indcrop.2023.116885",
+      "title": "Climate-induced vegetation dynamics associated with the prevalence of charcoal oak disease in Zagros forests",
+      "venue": "Industrial Crops and Products, 200, art. no. 116885",
+      "category": "scopus"
+    },
+    {
+      "num": 134,
+      "authors": "Golafrouz H., Safaie N., Khelghatibana F., Goodwin P.H., Rezaei A.",
+      "year": 2023,
+      "cited": 3,
+      "doi": "10.1111/jph.13235",
+      "title": "Effect of host genotype on biocontrol of white root rot in Pyrus communis L",
+      "venue": "rootstocks by Trichoderma harzianum and Bacillus spp.. Journal of Phytopathology, 171 (11-12), pp. 723 - 730",
+      "category": "scopus"
+    },
+    {
+      "num": 133,
+      "authors": "Qaderi S., Safaie N.",
+      "year": 2023,
+      "cited": 10,
+      "doi": "10.1007/s11104-023-05987-8",
+      "title": "Endophytic fungi-based wettable powder formulation for Rhizoctonia solani AG-4 biocontrol",
+      "venue": "Plant and Soil, 488 (1-2), pp. 485 - 501",
+      "category": "scopus"
+    },
+    {
+      "num": 132,
+      "authors": "Ganji F., Mojerlou S., Safaie N.",
+      "year": 2023,
+      "cited": 1,
+      "doi": "10.1007/s11356-023-30135-1",
+      "title": "Evaluation of copper-tolerant fungi isolated from Sarcheshmeh copper mine of Iran",
+      "venue": "Environmental Science and Pollution Research, 30 (51), pp. 110715 - 110724",
+      "category": "scopus"
+    },
+    {
+      "num": 131,
+      "authors": "Jahedi A., Salehi M., Goltapeh E.M., Safaie N.",
+      "year": 2023,
+      "cited": 10,
+      "doi": "10.1371/journal.pone.0281982",
+      "title": "Multilayer perceptron-genetic algorithm as a promising tool for modeling cultivation substrate of Auricularia cornea Native to Iran",
+      "venue": "PLoS ONE, 18 (2 February), art. no. e0281982",
+      "category": "scopus"
+    },
+    {
+      "num": 130,
+      "authors": "Shahkarami P., Ahmadian-Chashmi N., Samari E., Safaie N., Sharifi M.",
+      "year": 2022,
+      "cited": 1,
+      "doi": "10.1007/s11240-022-02232-5",
+      "title": "Correction to: Piriformospora indica induces phenylethanoid glycosides production and defense responses in Scrophularia striata cell culture (Plant Cell, Tissue and Organ Culture (PCTOC), (2022), 149, 1-2, (381-395), 10.1007/s11240-021-02213-0)",
+      "venue": "Plant Cell, Tissue and Organ Culture, 149 (1-2), pp. 397",
+      "category": "scopus"
+    },
+    {
+      "num": 129,
+      "authors": "Zamani S.M., Sefidkon F., Safaie N., Kazerani F., Alipour S.",
+      "year": 2022,
+      "cited": 2,
+      "doi": null,
+      "title": "Effects of endophytic fungi colonization on the growth and physiological responses of Satureja khuzestanica",
+      "venue": "Journal of Crop Protection, 11 (1), pp. 145 - 158",
+      "category": "scopus"
+    },
+    {
+      "num": 128,
+      "authors": "Bahari A., Castillo A.G., Safaie N., Bejarano E.R., Luna A.P., Shams-Bakhsh M.",
+      "year": 2022,
+      "cited": 8,
+      "doi": "10.3390/plants11233351",
+      "title": "Functional Analysis of V2 Protein of Beet Curly Top Iran Virus",
+      "venue": "Plants, 11 (23), art. no. 3351",
+      "category": "scopus"
+    },
+    {
+      "num": 127,
+      "authors": "Hosseyni Moghaddam M.S., Safaie N., Rahimlou S., Hagh-Doust N.",
+      "year": 2022,
+      "cited": 43,
+      "doi": "10.3389/fmicb.2022.906365",
+      "title": "Inducing Tolerance to Abiotic Stress in Hordeum vulgare L",
+      "venue": "by Halotolerant Endophytic Fungi Associated With Salt Lake Plants. Frontiers in Microbiology, 13, art. no. 906365",
+      "category": "scopus"
+    },
+    {
+      "num": 126,
+      "authors": "Alizadeh M., Safaie N., Shams-Bakhsh M., Mehrabadi M.",
+      "year": 2022,
+      "cited": 27,
+      "doi": "10.1038/s41598-022-13414-8",
+      "title": "Neoscytalidium novaehollandiae causes dieback on Pinus eldarica and its potential for infection of urban forest trees",
+      "venue": "Scientific Reports, 12 (1), art. no. 9337",
+      "category": "scopus"
+    },
+    {
+      "num": 125,
+      "authors": "Shahkarami P., Ahmadian-Chashmi N., Samari E., Safaie N., Sharifi M.",
+      "year": 2022,
+      "cited": 15,
+      "doi": "10.1007/s11240-021-02213-0",
+      "title": "Piriformospora indica induces phenylethanoid glycosides production and defense responses in Scrophularia striata cell culture",
+      "venue": "Plant Cell, Tissue and Organ Culture, 149 (1-2), pp. 381 - 395",
+      "category": "scopus"
+    },
+    {
+      "num": 124,
+      "authors": "Sorahinobar M., Safaie N., Moradi B.",
+      "year": 2022,
+      "cited": 12,
+      "doi": "10.1007/s12374-021-09329-y",
+      "title": "Salicylic Acid Seed Priming Enhanced Resistance in Wheat Against Fusarium graminearum Seedling Blight",
+      "venue": "Journal of Plant Biology, 65 (5), pp. 423 - 434",
+      "category": "scopus"
+    },
+    {
+      "num": 123,
+      "authors": "Amirkyaei G.A., Mousanejad S., Safaie N., Khodaparast S.A.",
+      "year": 2022,
+      "cited": 0,
+      "doi": "10.2478/hppj-2022-0002",
+      "title": "Temporal development of stem rot caused by Athelia rolfsii in peanut fields in Iran [Ανάπτυξη σήψης στελέχους Athelia rolfsii σε καλλιέργεια αραχίδας στο Ιράν]",
+      "venue": "Hellenic Plant Protection Journal, 15 (1), pp. 10 - 20",
+      "category": "scopus"
+    },
+    {
+      "num": 122,
+      "authors": "Salehi M., Farhadi S., Moieni A., Safaie N., Hesami M.",
+      "year": 2021,
+      "cited": 82,
+      "doi": "10.1186/s13007-021-00714-9",
+      "title": "A hybrid model based on general regression neural network and fruit fly optimization algorithm for forecasting and optimizing paclitaxel biosynthesis in Corylus avellana cell culture",
+      "venue": "Plant Methods, 17 (1), art. no. 13",
+      "category": "scopus"
+    },
+    {
+      "num": 121,
+      "authors": "Abbod M., Safaie N., Gholivand K., Mehrabadi M., Bonsaii M., Valmoozi A.A.E.",
+      "year": 2021,
+      "cited": 9,
+      "doi": "10.1186/s40538-021-00246-3",
+      "title": "A study of fungicidal and anti-phenol oxidase activity of some α-amino phosphonate derivatives",
+      "venue": "Chemical and Biological Technologies in Agriculture, 8 (1), art. no. 48",
+      "category": "scopus"
+    },
+    {
+      "num": 120,
+      "authors": "Nourian A., Salehi M., Safaie N., Khelghatibana F., Abdollahzadeh J.",
+      "year": 2021,
+      "cited": 1,
+      "doi": "10.1038/s41598-021-02855-2",
+      "title": "Author Correction: Fungal canker agents in apple production hubs of Iran (Scientific Reports, (2021), 11, 1, (22646), 10.1038/s41598-021-02245-8)",
+      "venue": "Scientific Reports, 11 (1), art. no. 23472",
+      "category": "scopus"
+    },
+    {
+      "num": 119,
+      "authors": "Abbasi S., Spor A., Sadeghi A., Safaie N.",
+      "year": 2021,
+      "cited": 1,
+      "doi": "10.1038/s41598-021-97719-0",
+      "title": "Author Correction: Streptomyces strains modulate dynamics of soil bacterial communities and their efficacy in disease suppression caused by Phytophthora capsici (Scientific Reports, (2021), 11, 1, (9317), 10.1038/s41598-021-88495-y)",
+      "venue": "Scientific Reports, 11 (1), art. no. 18140",
+      "category": "scopus"
+    },
+    {
+      "num": 118,
+      "authors": "Eslahi M.R., Safaie N., Saidi A., Shams-Bakhsh M.",
+      "year": 2021,
+      "cited": 3,
+      "doi": null,
+      "title": "Cdna-aflp analysis of plant defense genes expressed in wheat (Cv",
+      "venue": "chamran) infected with mycosphaerella graminicola. Journal of Agricultural Science and Technology, 23 (3), pp. 699 - 710",
+      "category": "scopus"
+    },
+    {
+      "num": 117,
+      "authors": "Hosseyni Moghaddam M.S., Safaie N., Soltani J., Hagh-Doust N.",
+      "year": 2021,
+      "cited": 134,
+      "doi": "10.1016/j.plaphy.2021.01.022",
+      "title": "Desert-adapted fungal endophytes induce salinity and drought stress resistance in model crops",
+      "venue": "Plant Physiology and Biochemistry, 160, pp. 225 - 238",
+      "category": "scopus"
+    },
+    {
+      "num": 116,
+      "authors": "Hosseyni Moghaddam M.S., Safaie N., Tedersoo L., Hagh-Doust N.",
+      "year": 2021,
+      "cited": 18,
+      "doi": "10.1016/j.funeco.2020.101019",
+      "title": "Diversity, community composition, and bioactivity of cultivable fungal endophytes in saline and dry soils in deserts",
+      "venue": "Fungal Ecology, 49, art. no. 101019",
+      "category": "scopus"
+    },
+    {
+      "num": 115,
+      "authors": "Nazari F., Safaie N., Momeni H.",
+      "year": 2021,
+      "cited": 1,
+      "doi": null,
+      "title": "Evaluation of fluorescence-activated cell sorting technology in agrobacterium biocontrol",
+      "venue": "Journal of Crop Protection, 10 (2), pp. 391 - 399",
+      "category": "scopus"
+    },
+    {
+      "num": 114,
+      "authors": "Nourian A., Salehi M., Safaie N., Khelghatibana F., Abdollahzadeh J.",
+      "year": 2021,
+      "cited": 28,
+      "doi": "10.1038/s41598-021-02245-8",
+      "title": "Fungal canker agents in apple production hubs of Iran",
+      "venue": "Scientific Reports, 11 (1), art. no. 22646",
+      "category": "scopus"
+    },
+    {
+      "num": 113,
+      "authors": "Soufi E., Safaie N., Shahbazi S., Mojerlou S.",
+      "year": 2021,
+      "cited": 11,
+      "doi": "10.1080/03235408.2021.1936377",
+      "title": "Gamma irradiation induces genetic variation and boosting antagonism in Trichoderma aureoviride",
+      "venue": "Archives of Phytopathology and Plant Protection, 54 (19-20), pp. 1649 - 1674",
+      "category": "scopus"
+    },
+    {
+      "num": 112,
+      "authors": "Tashackori H., Sharifi M., Ahmadian Chashmi N., Behmanesh M., Safaie N., Sagharyan M.",
+      "year": 2021,
+      "cited": 22,
+      "doi": "10.1007/s12298-021-01106-y",
+      "title": "Physiological, biochemical, and molecular responses of Linum album to digested cell wall of Piriformospora indica",
+      "venue": "Physiology and Molecular Biology of Plants, 27 (12), pp. 2695 - 2708",
+      "category": "scopus"
+    },
+    {
+      "num": 111,
+      "authors": "Elhady A., Abbasi S., Safaie N., Heuer H.",
+      "year": 2021,
+      "cited": 6,
+      "doi": "10.3389/fpls.2021.721016",
+      "title": "Responsiveness of Elite Cultivars vs",
+      "venue": "Ancestral Genotypes of Barley to Beneficial Rhizosphere Microbiome, Supporting Plant Defense Against Root-Lesion Nematodes. Frontiers in Plant Science, 12, art. no. 721016",
+      "category": "scopus"
+    },
+    {
+      "num": 110,
+      "authors": "Sakineh A., Ayme S., Akram S., Naser S.",
+      "year": 2021,
+      "cited": 56,
+      "doi": "10.1038/s41598-021-88495-y",
+      "title": "Streptomyces strains modulate dynamics of soil bacterial communities and their efficacy in disease suppression caused by Phytophthora capsici",
+      "venue": "Scientific Reports, 11 (1), art. no. 9317",
+      "category": "scopus"
+    },
+    {
+      "num": 109,
+      "authors": "Mahdizadeh V., Safaie N., Salehi M., Jahedi A.",
+      "year": 2021,
+      "cited": 5,
+      "doi": null,
+      "title": "Substrate preference of shiitake lentinula edodes (Berk.) pegler strains",
+      "venue": "Journal of Crop Protection, 10 (1), pp. 63 - 74",
+      "category": "scopus"
+    },
+    {
+      "num": 108,
+      "authors": "Eslami A.S., Safaie N., Mahmoudi S.B., Mojerlou S.",
+      "year": 2021,
+      "cited": 0,
+      "doi": "10.1016/j.eja.2021.126392",
+      "title": "Sugar beet root rot loss: ANN and Regression models",
+      "venue": "European Journal of Agronomy, 131, art. no. 126392",
+      "category": "scopus"
+    },
+    {
+      "num": 107,
+      "authors": "Gholivand K., Abbod M., Ebrahimi Valmoozi A.A., Barzegar O., Nasrollah Tabar H., Yaghoubi R., Hosseini M., Safaie N., Rahimzadeh Dashtaki M., Dusek M., Mani-Varnosfaderani A.",
+      "year": 2021,
+      "cited": 1,
+      "doi": "10.1007/s13738-020-02133-4",
+      "title": "Synthesis and crystal structure of phosphonic acid and bisphosphoramidate derivatives: QSAR studies of their anti-fungal potential on Macrophomina Phaseolina (Tassi) Goid",
+      "venue": "Journal of the Iranian Chemical Society, 18 (7), pp. 1591 - 1606",
+      "category": "scopus"
+    },
+    {
+      "num": 106,
+      "authors": "Mojerlou S., Safaie N., Abbasi Moghaddam A., Shams-Bakhsh M.",
+      "year": 2020,
+      "cited": 1,
+      "doi": null,
+      "title": "Characterizing resistance genes in wheat-stem rust interaction",
+      "venue": "Journal of Agricultural Science and Technology, 22 (6), pp. 1629 - 1644",
+      "category": "scopus"
+    },
+    {
+      "num": 105,
+      "authors": "Khelghatibana F., Javan-Nikkhah M., Safaie N., Fotouhifar K.-B., Vahdati K., Ebrahimie E.",
+      "year": 2020,
+      "cited": 0,
+      "doi": null,
+      "title": "Comparative study of virulence of ophiognomonia leptostyla",
+      "venue": "Journal of Crop Protection, 9 (2), pp. 307 - 318",
+      "category": "scopus"
+    },
+    {
+      "num": 104,
+      "authors": "Hasanzadeh M., Safaie N., Eslahi M.R., Dadrezaei S.T., Tabatabaei S.N.",
+      "year": 2020,
+      "cited": 5,
+      "doi": "10.1016/j.jssas.2018.09.005",
+      "title": "Economic returns from the foliar fungicide application to control leaf rust in winter wheat cultivars in southwest of Iran (Khuzestan Province)",
+      "venue": "Journal of the Saudi Society of Agricultural Sciences, 19 (3), pp. 199 - 206",
+      "category": "scopus"
+    },
+    {
+      "num": 103,
+      "authors": "Hosseyni Moghaddam M.S., Safaie N., Soltani J., Pasdaran A.",
+      "year": 2020,
+      "cited": 18,
+      "doi": "10.1007/s10482-019-01336-x",
+      "title": "Endophytic association of bioactive and halotolerant Humicola fuscoatra with halophytic plants, and its capability of producing anthraquinone and anthranol derivatives",
+      "venue": "Antonie van Leeuwenhoek, International Journal of General and Molecular Microbiology, 113 (2), pp. 279 - 291",
+      "category": "scopus"
+    },
+    {
+      "num": 102,
+      "authors": "Farhadi S., Moieni A., Safaie N., Sabet M.S., Salehi M.",
+      "year": 2020,
+      "cited": 45,
+      "doi": "10.1038/s41598-020-62196-4",
+      "title": "Fungal Cell Wall and Methyl-β–Cyclodextrin Synergistically Enhance Paclitaxel Biosynthesis and Secretion in Corylus avellana Cell Suspension Culture",
+      "venue": "Scientific Reports, 10 (1), art. no. 5427",
+      "category": "scopus"
+    },
+    {
+      "num": 101,
+      "authors": "Mohammadi N., Mehrabi R., Mirzadi Gohari A., Roostaei M., Mohammadi Goltapeh E., Safaie N., Kema G.H.J.",
+      "year": 2020,
+      "cited": 7,
+      "doi": "10.3389/fmicb.2020.01976",
+      "title": "MADS-Box Transcription Factor ZtRlm1 Is Responsible for Virulence and Development of the Fungal Wheat Pathogen Zymoseptoria tritici",
+      "venue": "Frontiers in Microbiology, 11, art. no. 1976",
+      "category": "scopus"
+    },
+    {
+      "num": 100,
+      "authors": "Salehi M., Farhadi S., Moieni A., Safaie N., Ahmadi H.",
+      "year": 2020,
+      "cited": 67,
+      "doi": "10.3389/fpls.2020.01148",
+      "title": "Mathematical Modeling of Growth and Paclitaxel Biosynthesis in Corylus avellana Cell Culture Responding to Fungal Elicitors Using Multilayer Perceptron-Genetic Algorithm",
+      "venue": "Frontiers in Plant Science, 11, art. no. 1148",
+      "category": "scopus"
+    },
+    {
+      "num": 99,
+      "authors": "Alizadeh M., Vasebi Y., Safaie N.",
+      "year": 2020,
+      "cited": 52,
+      "doi": "10.1515/opag-2020-0031",
+      "title": "Microbial antagonists against plant pathogens in Iran: A review",
+      "venue": "Open Agriculture, 5 (1), pp. 404 - 440",
+      "category": "scopus"
+    },
+    {
+      "num": 98,
+      "authors": "Abbod M., Safaie N., Gholivand K., Mehrabadi M., Bonsaii M.",
+      "year": 2020,
+      "cited": 13,
+      "doi": "10.1016/j.pestbp.2020.02.003",
+      "title": "Mode of action of 3-butylidene phthalide as a competent natural pesticide",
+      "venue": "Pesticide Biochemistry and Physiology, 164, pp. 228 - 236",
+      "category": "scopus"
+    },
+    {
+      "num": 97,
+      "authors": "Farhadi S., Salehi M., Moieni A., Safaie N., Sabet M.S.",
+      "year": 2020,
+      "cited": 55,
+      "doi": "10.1371/journal.pone.0237478",
+      "title": "Modeling of paclitaxel biosynthesis elicitation in Corylus avellana cell culture using adaptive neuro-fuzzy inference system-genetic algorithm (ANFIS-GA) and multiple regression methods",
+      "venue": "PLoS ONE, 15 (8 August), art. no. e0237478",
+      "category": "scopus"
+    },
+    {
+      "num": 96,
+      "authors": "Ghaemi R., Pourjam E., Safaie N., Verstraeten B., Mahmoudi S.B., Mehrabi R., De Meyer T., Kyndt T.",
+      "year": 2020,
+      "cited": 34,
+      "doi": "10.1186/s12870-020-02706-8",
+      "title": "Molecular insights into the compatible and incompatible interactions between sugar beet and the beet cyst nematode",
+      "venue": "BMC Plant Biology, 20 (1), art. no. 483",
+      "category": "scopus"
+    },
+    {
+      "num": 95,
+      "authors": "Abbasi S., Sadeghi A., Safaie N.",
+      "year": 2020,
+      "cited": 140,
+      "doi": "10.1016/j.scienta.2020.109206",
+      "title": "Streptomyces alleviate drought stress in tomato plants and modulate the expression of transcription factors ERF1 and WRKY70 genes",
+      "venue": "Scientia Horticulturae, 265, art. no. 109206",
+      "category": "scopus"
+    },
+    {
+      "num": 94,
+      "authors": "Golafrouz H., Safaie N., Khelghatibana F.",
+      "year": 2020,
+      "cited": 11,
+      "doi": null,
+      "title": "The reaction of some apple rootstocks to biocontrol of white root rot rosellinia necatrix by trichoderma harzianum in greenhouse",
+      "venue": "Journal of Crop Protection, 9 (4), pp. 577 - 589",
+      "category": "scopus"
+    },
+    {
+      "num": 93,
+      "authors": "Ghasemi S., Safaie N., Shahbazi S., Shams-Bakhsh M., Askari H.",
+      "year": 2020,
+      "cited": 59,
+      "doi": "10.30498/IJB.2020.2333",
+      "title": "The role of cell wall degrading enzymes in antagonistic traits of trichoderma virens against rhizoctonia solani",
+      "venue": "Iranian Journal of Biotechnology, 18 (4), art. no. e2333, pp. 18 - 28",
+      "category": "scopus"
+    },
+    {
+      "num": 92,
+      "authors": "Keypour S., Riahi H., Asef M.R., Abdollahzadeh J., borhani A., Safaie N.",
+      "year": 2020,
+      "cited": 6,
+      "doi": "10.1111/efp.12605",
+      "title": "The true nature of Ganoderma in Iran: Taxonomy based on ITS and mtSSU rDNA",
+      "venue": "Forest Pathology, 50 (4), art. no. e12605",
+      "category": "scopus"
+    },
+    {
+      "num": 91,
+      "authors": "Abbasi S., Safaie N., Sadeghi A., Shamsbakhsh M.",
+      "year": 2020,
+      "cited": 37,
+      "doi": "10.1371/journal.pone.0230531",
+      "title": "Tissue-specific synergistic bio-priming of pepper by two streptomyces species against phytophthora capsici",
+      "venue": "PLoS ONE, 15 (3), art. no. e0230531",
+      "category": "scopus"
+    },
+    {
+      "num": 90,
+      "authors": "Salehi M., Moieni A., Safaie N., Farhadi S.",
+      "year": 2020,
+      "cited": 50,
+      "doi": "10.1371/journal.pone.0236191",
+      "title": "Whole fungal elicitors boost paclitaxel biosynthesis induction in Corylus avellana cell culture",
+      "venue": "PLoS ONE, 15 (7 July), art. no. e0236191",
+      "category": "scopus"
+    },
+    {
+      "num": 89,
+      "authors": "Rokni N., Akbar Sadati S.A., Safaie N., Ebrahimi M.A., Samimifar M.",
+      "year": 2019,
+      "cited": 2,
+      "doi": "10.1016/j.myc.2019.06.002",
+      "title": "Assessment of genetic relatedness among commercial and wild strains of Agaricus bisporus using repetitive extragenic palindromic sequences and polymerase chain reaction",
+      "venue": "Mycoscience, 60 (5), pp. 293 - 297",
+      "category": "scopus"
+    },
+    {
+      "num": 88,
+      "authors": "Hagh Doust N., Safaie N., Schmitt I., Otte J., Bálint M.",
+      "year": 2019,
+      "cited": 5,
+      "doi": "10.1111/efp.12515",
+      "title": "Culture-based methods using low-temperature incubation revealed cold-adapted fungal endophytes from semiarid forests",
+      "venue": "Forest Pathology, 49 (3), art. no. e12515",
+      "category": "scopus"
+    },
+    {
+      "num": 87,
+      "authors": "Salehi M., Moieni A., Safaie N., Farhadi S.",
+      "year": 2019,
+      "cited": 75,
+      "doi": "10.1007/s11240-018-1503-9",
+      "title": "Elicitors derived from endophytic fungi Chaetomium globosum and Paraconiothyrium brasiliense enhance paclitaxel production in Corylus avellana cell suspension culture",
+      "venue": "Plant Cell, Tissue and Organ Culture, 136 (1), pp. 161 - 171",
+      "category": "scopus"
+    },
+    {
+      "num": 86,
+      "authors": "Ghasemi S., Safaie N., Shahbazi S., Shams-Bakhsh M., Askari H.",
+      "year": 2019,
+      "cited": 19,
+      "doi": null,
+      "title": "Enhancement of Lytic enzymes activity and antagonistic traits of trichoderma harzianum using γ-radiation induced mutation",
+      "venue": "Journal of Agricultural Science and Technology, 21 (4), pp. 1035 - 1048",
+      "category": "scopus"
+    },
+    {
+      "num": 85,
+      "authors": "Jahedi A., Safaie N., Goltapeh E.M.",
+      "year": 2019,
+      "cited": 3,
+      "doi": "10.1080/03235408.2019.1672913",
+      "title": "Fusarium avenaceum and Fusarium crookwellens cause onion basal rot in Iran",
+      "venue": "Archives of Phytopathology and Plant Protection, 52 (9-10), pp. 953 - 968",
+      "category": "scopus"
+    },
+    {
+      "num": 84,
+      "authors": "Fakhari S., Sharifi M., De Michele R., Ghanati F., Safaie N., Sadeghnezhad E.",
+      "year": 2019,
+      "cited": 19,
+      "doi": "10.1016/j.plaphy.2018.12.015",
+      "title": "Hydrogen sulfide directs metabolic flux towards the lignan biosynthesis in Linum album hairy roots",
+      "venue": "Plant Physiology and Biochemistry, 135, pp. 359 - 371",
+      "category": "scopus"
+    },
+    {
+      "num": 83,
+      "authors": "Abtahi F., Shams-Bakhsh M., Safaie N., Azizi A., Autonell C.R., Ratti C.",
+      "year": 2019,
+      "cited": 4,
+      "doi": "10.1007/s42161-018-00224-z",
+      "title": "Incidence and genetic diversity of apple chlorotic leaf spot virus in Iran",
+      "venue": "Journal of Plant Pathology, 101 (3), pp. 513 - 519",
+      "category": "scopus"
+    },
+    {
+      "num": 82,
+      "authors": "Salehi M., Moieni A., Safaie N., Farhadi S.",
+      "year": 2019,
+      "cited": 39,
+      "doi": "10.1007/s10295-019-02148-8",
+      "title": "New synergistic co-culture of Corylus avellana cells and Epicoccum nigrum for paclitaxel production",
+      "venue": "Journal of Industrial Microbiology and Biotechnology, 46 (5), pp. 613 - 623",
+      "category": "scopus"
+    },
+    {
+      "num": 81,
+      "authors": "Hasanzadeh M., Safaie N., Eslahi M.R., Dadrezaei S.T., Tabatabaei S.N.",
+      "year": 2019,
+      "cited": 3,
+      "doi": null,
+      "title": "Regional monitoring of the dynamic of wheat leaf rust (Puccinia triticina eriks) in southwest of Iran, Khuzestan Province",
+      "venue": "Journal of Agricultural Science and Technology, 21 (6), pp. 1595 - 1605",
+      "category": "scopus"
+    },
+    {
+      "num": 80,
+      "authors": "Tashackori H., Sharifi M., Ahmadian Chashmi N., Fuss E., Behmanesh M., Safaie N.",
+      "year": 2019,
+      "cited": 13,
+      "doi": "10.1016/j.jplph.2018.11.005",
+      "title": "RNAi-mediated silencing of pinoresinol lariciresinol reductase in Linum album hairy roots alters the phenolic accumulation in response to fungal elicitor",
+      "venue": "Journal of Plant Physiology, 232, pp. 115 - 126",
+      "category": "scopus"
+    },
+    {
+      "num": 79,
+      "authors": "Abbasi S., Safaie N., Sadeghi A., Shamsbakhsh M.",
+      "year": 2019,
+      "cited": 121,
+      "doi": "10.3389/fmicb.2019.01505",
+      "title": "Streptomyces Strains Induce Resistance to Fusarium oxysporum f",
+      "venue": "Sp. Lycopersici Race 3 in Tomato through Different Molecular Mechanisms. Frontiers in Microbiology, 10 (JUL), art. no. 1505",
+      "category": "scopus"
+    },
+    {
+      "num": 78,
+      "authors": "Salahlou R., Safaie N., Shams-Bakhsh M.",
+      "year": 2019,
+      "cited": 3,
+      "doi": null,
+      "title": "Using ISSR and URP-PCR markers in detecting genetic diversity among Macrophomina phaseolina isolates of sesame in Iran",
+      "venue": "Journal of Crop Protection, 8 (3), pp. 293 - 299",
+      "category": "scopus"
+    },
+    {
+      "num": 77,
+      "authors": "Tashackori H., Sharifi M., Chashmi N.A., Behmanesh M., Safaie N.",
+      "year": 2018,
+      "cited": 40,
+      "doi": "10.1007/s00425-018-2973-z",
+      "title": "Piriformospora indica cell wall modulates gene expression and metabolite profile in Linum album hairy roots",
+      "venue": "Planta, 248 (5), pp. 1289 - 1306",
+      "category": "scopus"
+    },
+    {
+      "num": 76,
+      "authors": "Mahdizadeh V., Alberto Parra L., Safaie N., Mohammadi Goltapeh E., Chen J., Guinberteau J., Callac P.",
+      "year": 2018,
+      "cited": 14,
+      "doi": "10.1016/j.funbio.2017.10.001",
+      "title": "A phylogenetic and morphological overview of sections Bohusia, Sanguinolenti, and allied sections within Agaricus subg",
+      "venue": "Pseudochitonia with three new species from France, Iran, and Portugal. Fungal Biology, 122 (1), pp. 34 - 51",
+      "category": "scopus"
+    },
+    {
+      "num": 75,
+      "authors": "Karimipour Fard H., Pourjam E., Tanha Maafi Z., Safaie N.",
+      "year": 2018,
+      "cited": 17,
+      "doi": "10.1111/jph.12686",
+      "title": "Assessment of yield loss of wheat cultivars caused by Heterodera filipjevi under field conditions",
+      "venue": "Journal of Phytopathology, 166 (5), pp. 299 - 304",
+      "category": "scopus"
+    },
+    {
+      "num": 74,
+      "authors": "Yazdani R., Safaie N., Shams-Bakhsh M.",
+      "year": 2018,
+      "cited": 23,
+      "doi": "10.1007/s10658-017-1264-z",
+      "title": "Association of Pantoea ananatis and Pantoea agglomerans with leaf spot disease on ornamental plants of Araceae Family",
+      "venue": "European Journal of Plant Pathology, 150 (1), pp. 167 - 178",
+      "category": "scopus"
+    },
+    {
+      "num": 73,
+      "authors": "Bakhshi E., Safaie N., Shams-Bakhsh M.",
+      "year": 2018,
+      "cited": 7,
+      "doi": null,
+      "title": "Bacillus amyloliquefaciens as a biocontrol agent improves the management of charcoal root rot in melon",
+      "venue": "Journal of Agricultural Science and Technology, 20 (3), pp. 597 - 607",
+      "category": "scopus"
+    },
+    {
+      "num": 72,
+      "authors": "Minaei S., Jafari M., Safaie N.",
+      "year": 2018,
+      "cited": 12,
+      "doi": null,
+      "title": "Design and development of a rose plant disease-detection and site-specific spraying system based on a combination of infrared and visible images",
+      "venue": "Journal of Agricultural Science and Technology, 20 (1), pp. 23 - 36",
+      "category": "scopus"
+    },
+    {
+      "num": 71,
+      "authors": "Saberi E., Alavi S.M., Safaie N.",
+      "year": 2018,
+      "cited": 3,
+      "doi": "10.1111/jph.12724",
+      "title": "Diversity and characterization of Candidatus Liberibacter asiaticus strains causing huanglongbing disease in Iran, based on two prophage loci",
+      "venue": "Journal of Phytopathology, 166 (9), pp. 623 - 632",
+      "category": "scopus"
+    },
+    {
+      "num": 70,
+      "authors": "Salehi M., Moieni A., Safaie N.",
+      "year": 2018,
+      "cited": 44,
+      "doi": "10.1038/s41598-018-29762-3",
+      "title": "Elicitors Derived from Hazel (Corylus avellana L.) Cell Suspension Culture Enhance Growth and Paclitaxel Production of Epicoccum nigrum",
+      "venue": "Scientific Reports, 8 (1), art. no. 12053",
+      "category": "scopus"
+    },
+    {
+      "num": 69,
+      "authors": "Nourani S.L., Goltapeh E.M., Safaie N., Javaran M.J., Pourjam E.",
+      "year": 2018,
+      "cited": 5,
+      "doi": "10.1016/j.biocontrol.2018.03.017",
+      "title": "Enhancing the pathogenicity of Arthrobotrys conoides and A",
+      "venue": "oligospora against Meloidogyne javanica J2 by transferring of protease (Ac1) gene and evaluation of antagonistic capability of transgenic isolates. Biological Control, 122, pp. 127 - 135",
+      "category": "scopus"
+    },
+    {
+      "num": 68,
+      "authors": "Bayat H., Hassani-Mehraban A., Safaie N., Shams-bakhsh M.",
+      "year": 2018,
+      "cited": 6,
+      "doi": "10.1007/s42161-018-0047-5",
+      "title": "Molecular and biological characterization of an isolate of capsicum chlorosis virus from IRAN",
+      "venue": "Journal of Plant Pathology, 100 (2), pp. 163 - 170",
+      "category": "scopus"
+    },
+    {
+      "num": 67,
+      "authors": "Salehi M., Moieni A., Safaie N.",
+      "year": 2017,
+      "cited": 45,
+      "doi": "10.1038/s41598-017-15703-z",
+      "title": "A Novel Medium for Enhancing Callus Growth of Hazel (Corylus avellana L.)",
+      "venue": "Scientific Reports, 7 (1), art. no. 15598",
+      "category": "scopus"
+    },
+    {
+      "num": 66,
+      "authors": "Nazari F., Safaie N., Soltani B.M., Shams-Bakhsh M., Sharifi M.",
+      "year": 2017,
+      "cited": 25,
+      "doi": "10.1016/j.plaphy.2017.06.010",
+      "title": "Bacillus subtilis affects miRNAs and flavanoids production in Agrobacterium-Tobacco interaction",
+      "venue": "Plant Physiology and Biochemistry, 118, pp. 98 - 106",
+      "category": "scopus"
+    },
+    {
+      "num": 65,
+      "authors": "Saberi E., Alavi S.M., Safaie N., Moslemkhany C., Azadvar M.",
+      "year": 2017,
+      "cited": 17,
+      "doi": null,
+      "title": "Bacterial pathogens associated with citrus huanglongbing-like symptoms in southern Iran",
+      "venue": "Journal of Crop Protection, 6 (1), pp. 99 - 113",
+      "category": "scopus"
+    },
+    {
+      "num": 64,
+      "authors": "Karimipour Fard H., Pourjam E., Tanha Maafi Z., Safaie N.",
+      "year": 2017,
+      "cited": 2,
+      "doi": null,
+      "title": "Cereal cyst nematode, Heterodera filipjevi (Madzhidov, 1981) in wheat fields of Chaharmahal and Bakhtiari province, Iran and its distribution based on interpolation by geographic information system",
+      "venue": "Journal of Agricultural Science and Technology, 19 (5), pp. 1185 - 1196",
+      "category": "scopus"
+    },
+    {
+      "num": 63,
+      "authors": "Mehrparvar M., Rahnama K., Safaie N., Ramezanpour S.",
+      "year": 2017,
+      "cited": 1,
+      "doi": null,
+      "title": "Characterization of Mycothermus thermophilus engaged in mushroom composting in Iran",
+      "venue": "Journal of Crop Protection, 6 (4), pp. 471 - 486",
+      "category": "scopus"
+    },
+    {
+      "num": 62,
+      "authors": "Hagh Doust N., Akbarinia M., Safaie N., Yousefzadeh H., Bálint M.",
+      "year": 2017,
+      "cited": 21,
+      "doi": "10.1016/j.funeco.2017.05.002",
+      "title": "Community analysis of Persian oak fungal microbiome under dust storm conditions",
+      "venue": "Fungal Ecology, 29, pp. 1 - 9",
+      "category": "scopus"
+    },
+    {
+      "num": 61,
+      "authors": "Jafari M., Minaei S., Safaie N.",
+      "year": 2017,
+      "cited": 36,
+      "doi": "10.1016/j.infrared.2017.04.023",
+      "title": "Detection of pre-symptomatic rose powdery-mildew and gray-mold diseases based on thermal vision",
+      "venue": "Infrared Physics and Technology, 85, pp. 170 - 183",
+      "category": "scopus"
+    },
+    {
+      "num": 60,
+      "authors": "Mahdizadeh V., Safaie N., Goltapeh E.M., Asef M.R., Callac P.",
+      "year": 2017,
+      "cited": 4,
+      "doi": "10.1139/cjb-2016-0198",
+      "title": "Medicinal mushroom Agaricus subrufescens from Iran shares genetic markers with specimens from China and Thailand",
+      "venue": "Botany, 95 (6), pp. 579 - 585",
+      "category": "scopus"
+    },
+    {
+      "num": 59,
+      "authors": "Abtahi F., Shams-Bakhsh M., Safaie N., Autonell C.R., Ratti C.",
+      "year": 2017,
+      "cited": 9,
+      "doi": null,
+      "title": "Occurrence, distribution, and molecular characterization of apple stem pitting virus in Iran",
+      "venue": "Journal of Agricultural Science and Technology, 19 (1), pp. 217 - 230",
+      "category": "scopus"
+    },
+    {
+      "num": 58,
+      "authors": "Sorahinobar M., Soltanloo H., Niknam V., Ebrahimzadeh H., Moradi B., Safaie N., Behmanesh M., Bahram M.",
+      "year": 2017,
+      "cited": 9,
+      "doi": "10.1080/07060661.2017.1379442",
+      "title": "Physiological and molecular responses of resistant and susceptible wheat cultivars to Fusarium graminearum mycotoxin extract",
+      "venue": "Canadian Journal of Plant Pathology, 39 (4), pp. 444 - 453",
+      "category": "scopus"
+    },
+    {
+      "num": 57,
+      "authors": "Nazari F., Safaie N., Soltani B.M., Shams-Bakhsh M., Sharifi M.",
+      "year": 2017,
+      "cited": 1,
+      "doi": "10.1080/03235408.2016.1253251",
+      "title": "The effect of Bacillus subtilis producing Surfactin in ROS production and transformation efficiency of tobacco cells",
+      "venue": "Archives of Phytopathology and Plant Protection, 50 (1-2), pp. 24 - 32",
+      "category": "scopus"
+    },
+    {
+      "num": 56,
+      "authors": "Nazari F., Safaie N., Soltani B.M., Shams-Bakhsh M., Sharifi M.",
+      "year": 2017,
+      "cited": 0,
+      "doi": null,
+      "title": "The effect of environmental factors on surfactin production of Bacillus subtilis",
+      "venue": "Journal of Crop Protection, 6 (1), pp. 89 - 97",
+      "category": "scopus"
+    },
+    {
+      "num": 55,
+      "authors": "Mohammadi N., Mehrabi R., Mirzadi Gohari A., Mohammadi Goltapeh E., Safaie N., Kema G.H.J.",
+      "year": 2017,
+      "cited": 14,
+      "doi": "10.1016/j.fgb.2017.10.003",
+      "title": "The ZtVf1 transcription factor regulates development and virulence in the foliar wheat pathogen Zymoseptoria tritici",
+      "venue": "Fungal Genetics and Biology, 109, pp. 26 - 35",
+      "category": "scopus"
+    },
+    {
+      "num": 54,
+      "authors": "Mahdizadeh V., Safaie N., Goltapeh E.M., Asef M.R., Hosseini S.M.N., Callac P.",
+      "year": 2016,
+      "cited": 18,
+      "doi": "10.11646/phytotaxa.247.3.2",
+      "title": "Agaricus section Xanthodermatei in Iran",
+      "venue": "Phytotaxa, 247 (3), pp. 181 - 196",
+      "category": "scopus"
+    },
+    {
+      "num": 53,
+      "authors": "Mehrparvar M., Goltapeh E.M., Safaie N., Ashkani S., Hedesh R.M.",
+      "year": 2016,
+      "cited": 30,
+      "doi": "10.1016/j.indcrop.2016.02.012",
+      "title": "Antifungal activity of essential oils against mycelial growth of Lecanicillium fungicola var",
+      "venue": "fungicola and Agaricus bisporus. Industrial Crops and Products, 84, pp. 391 - 398",
+      "category": "scopus"
+    },
+    {
+      "num": 52,
+      "authors": "Karimi E., Safaie N., Shams-Baksh M., Mahmoudi B.",
+      "year": 2016,
+      "cited": 32,
+      "doi": "10.1016/j.micres.2016.06.011",
+      "title": "Bacillus amyloliquefaciens SB14 from rhizosphere alleviates Rhizoctonia damping-off disease on sugar beet",
+      "venue": "Microbiological Research, 192, pp. 221 - 230",
+      "category": "scopus"
+    },
+    {
+      "num": 51,
+      "authors": "Abbasi S., Safaie N., Shams-Bakhsh M., Shahbazi S.",
+      "year": 2016,
+      "cited": 33,
+      "doi": "10.15171/ijb.1224",
+      "title": "Biocontrol activities of gamma induced mutants of Trichoderma harzianum against some soilborne fungal pathogens and their DNA fingerprinting",
+      "venue": "Iranian Journal of Biotechnology, 14 (4), art. no. e1224, pp. 260 - 269",
+      "category": "scopus"
+    },
+    {
+      "num": 50,
+      "authors": "Jafari M., Minaei S., Safaie N., Torkamani-Azar F.",
+      "year": 2016,
+      "cited": 12,
+      "doi": "10.1016/j.infrared.2016.03.003",
+      "title": "Early detection and classification of powdery mildew-infected rose leaves using ANFIS based on extracted features of thermal images",
+      "venue": "Infrared Physics and Technology, 76, pp. 338 - 345",
+      "category": "scopus"
+    },
+    {
+      "num": 49,
+      "authors": "Gholamnezhad J., Sanjarian F., Goltapeh E.M., Safaie N., Razavi K.",
+      "year": 2016,
+      "cited": 23,
+      "doi": "10.1515/sab-2016-0001",
+      "title": "Effect of Salicylic Acid on Enzyme Activity in Wheat in Immediate Early Time after Infection with Mycosphaerella Graminicola",
+      "venue": "Scientia Agriculturae Bohemica, 47 (1), pp. 1 - 8",
+      "category": "scopus"
+    },
+    {
+      "num": 48,
+      "authors": "Sadeghi Raviz M., Ahmadi N., Safaei N., Rahmani I.",
+      "year": 2016,
+      "cited": 2,
+      "doi": "10.17660/ActaHortic.2016.1131.3",
+      "title": "Enhancement of postharvest quality and antioxidant enzymes' activity of gerbera cut flowers through methyl jasmonate fumigation",
+      "venue": "Acta Horticulturae, 1131, pp. 17 - 24",
+      "category": "scopus"
+    },
+    {
+      "num": 47,
+      "authors": "Rokni N., Goltapeh E.M., Shafeinia A., Safaie N.",
+      "year": 2016,
+      "cited": 11,
+      "doi": "10.1139/cjb-2015-0131",
+      "title": "Evaluation of genetic diversity among some commercial cultivars and Iranian wild strains of Agaricus bisporus by microsatellite markers",
+      "venue": "Botany, 94 (1), pp. 9 - 13",
+      "category": "scopus"
+    },
+    {
+      "num": 46,
+      "authors": "Salahlou R., Safaie N., Shams-Bakhsh M.",
+      "year": 2016,
+      "cited": 10,
+      "doi": null,
+      "title": "Genetic diversity of Macrophomina phaseolina populations, the causal agent of sesame charcoal rot using inter-simple sequence repeat markers",
+      "venue": "Journal of Agricultural Science and Technology, 18 (1), pp. 277 - 287",
+      "category": "scopus"
+    },
+    {
+      "num": 45,
+      "authors": "Tashackori H., Sharifi M., Ahmadian Chashmi N., Safaie N., Behmanesh M.",
+      "year": 2016,
+      "cited": 41,
+      "doi": "10.1007/s11240-016-1041-2",
+      "title": "Induced-differential changes on lignan and phenolic acid compounds in Linum album hairy roots by fungal extract of Piriformospora indica",
+      "venue": "Plant Cell, Tissue and Organ Culture, 127 (1), pp. 187 - 194",
+      "category": "scopus"
+    },
+    {
+      "num": 44,
+      "authors": "Goudarzi A., Jafari M., Safaie N., Mohammad Jafari S.",
+      "year": 2016,
+      "cited": 1,
+      "doi": "10.1007/s12355-015-0379-9",
+      "title": "Transgenic Sugar Beet Expressing a Bacterial Mannitol-1-Phosphate Dehydrogenase (mtlD) Gene Shows Enhanced Resistance to Fungal Pathogens",
+      "venue": "Sugar Tech, 18 (2), pp. 192 - 203",
+      "category": "scopus"
+    },
+    {
+      "num": 43,
+      "authors": "Talesh-Sasani S., Soltani B.M., Behmanesh M., Safaie N.",
+      "year": 2015,
+      "cited": 1,
+      "doi": "10.1007/s13313-015-0372-5",
+      "title": "A Magnaporthe Avr-pita gene orthologous in Rhizoctonia solani AG1-IA shows characteristics of an effector protein",
+      "venue": "Australasian Plant Pathology, 44 (5), pp. 567 - 574",
+      "category": "scopus"
+    },
+    {
+      "num": 42,
+      "authors": "Bakooie M., Pourjam E., Mahmoudi S.B., Safaie N., Naderpour M.",
+      "year": 2015,
+      "cited": 12,
+      "doi": null,
+      "title": "Development of an SNP marker for sugar beet resistance/susceptible genotyping to root-knot nematode",
+      "venue": "Journal of Agricultural Science and Technology, 17 (2), pp. 443 - 454",
+      "category": "scopus"
+    },
+    {
+      "num": 41,
+      "authors": "Ghanbarzadeh B., Safaie N., Goltapeh E.M.",
+      "year": 2014,
+      "cited": 22,
+      "doi": "10.1080/03235408.2013.864506",
+      "title": "Antagonistic activity and hyphal interactions of Trichoderma spp",
+      "venue": "against Fusarium proliferatum and F. oxysporum in vitro. Archives of Phytopathology and Plant Protection, 47 (16), pp. 1979 - 1987",
+      "category": "scopus"
+    },
+    {
+      "num": 40,
+      "authors": "Kachuei R., Rezaie S., Yadegari M.H., Safaie N., Allameh A.-A., Aref-Poor M.-A., Fooladi A.-A.I., Riazipour M., Abadi H.M.M.",
+      "year": 2014,
+      "cited": 11,
+      "doi": null,
+      "title": "Determination of T-2 mycotoxin in Fusarium strains by HPLC with fluorescence detector",
+      "venue": "Journal of Applied Biotechnology Reports, 1 (1), pp. 38 - 43",
+      "category": "scopus"
+    },
+    {
+      "num": 39,
+      "authors": "Panahirad S., Zaare-Nahandi F., Mohammadi N., Alizadeh-Salteh S., Safaie N.",
+      "year": 2014,
+      "cited": 35,
+      "doi": "10.1002/jsfa.6488",
+      "title": "Effects of salicylic acid on aspergillus flavus infection and aflatoxin B1 accumulation in pistachio (Pistacia vera L.) fruit",
+      "venue": "Journal of the Science of Food and Agriculture, 94 (9), pp. 1758 - 1763",
+      "category": "scopus"
+    },
+    {
+      "num": 38,
+      "authors": "Torkamani M.R.D., Jafari M., Abbaspour N., Heidary R., Safaie N.",
+      "year": 2014,
+      "cited": 33,
+      "doi": "10.2478/s11535-014-0320-3",
+      "title": "Enhanced production of valerenic acid in hairy root culture of Valeriana officinalis by elicitation",
+      "venue": "Central European Journal of Biology, 9 (9), pp. 853 - 863",
+      "category": "scopus"
+    },
+    {
+      "num": 37,
+      "authors": "Ghanbarzadeh B., Mohammadi Goltapeh E., Safaie N.",
+      "year": 2014,
+      "cited": 29,
+      "doi": "10.1080/03235408.2013.829628",
+      "title": "Identification of Fusarium species causing basal rot of onion in East Azarbaijan province, Iran and evaluation of their virulence on onion bulbs and seedlings",
+      "venue": "Archives of Phytopathology and Plant Protection, 47 (9), pp. 1050 - 1062",
+      "category": "scopus"
+    },
+    {
+      "num": 36,
+      "authors": "Tahsili J., Sharifi M., Safaie N., Esmaeilzadeh-Bahabadi S., Behmanesh M.",
+      "year": 2014,
+      "cited": 74,
+      "doi": "10.1080/17429145.2013.846419",
+      "title": "Induction of lignans and phenolic compounds in cell culture of Linum album by culture filtrate of Fusarium graminearum",
+      "venue": "Journal of Plant Interactions, 9 (1), pp. 412 - 417",
+      "category": "scopus"
+    },
+    {
+      "num": 35,
+      "authors": "Keypour S., Riahi H., Safaie N., Borhani A.",
+      "year": 2014,
+      "cited": 8,
+      "doi": "10.1615/IntJMedMushrooms.v16.i4.70",
+      "title": "Mycelial growth rate and macro- and micromorphological characteristics of medicinal species of genus ganoderma (higher basidiomycetes) from Iran",
+      "venue": "International Journal of Medicinal Mushrooms, 16 (4), pp. 365 - 374",
+      "category": "scopus"
+    },
+    {
+      "num": 34,
+      "authors": "Vaseghi A., Bakhshinejad B., Safaie N., Parchin R.A., Sadeghizadeh M.",
+      "year": 2014,
+      "cited": 5,
+      "doi": "10.1007/s11274-013-1438-6",
+      "title": "PCR amplification of the hrcV gene through specific primers for detecting Pseudomonas syringae pathovars",
+      "venue": "World Journal of Microbiology and Biotechnology, 30 (2), pp. 413 - 421",
+      "category": "scopus"
+    },
+    {
+      "num": 33,
+      "authors": "Vaseghi A., Safaie N., Bakhshinejad B., Mohsenifar A., Sadeghizadeh M.",
+      "year": 2013,
+      "cited": 67,
+      "doi": "10.1016/j.snb.2013.02.018",
+      "title": "Detection of Pseudomonas syringae pathovars by thiol-linked DNA-Gold nanoparticle probes",
+      "venue": "Sensors and Actuators, B: Chemical, 181, pp. 644 - 651",
+      "category": "scopus"
+    },
+    {
+      "num": 32,
+      "authors": "Haratian M., Safaie N., Sharifnabi B., Mahmudi S.B., Ariana A.",
+      "year": 2013,
+      "cited": 21,
+      "doi": "10.1111/j.1365-3059.2012.02665.x",
+      "title": "Genetic structure of populations of Rhizoctonia solani AG-4 from five provinces in Iran",
+      "venue": "Plant Pathology, 62 (3), pp. 649 - 656",
+      "category": "scopus"
+    },
+    {
+      "num": 31,
+      "authors": "Ahanchédé A., Alfaya J.E.F., Andersen L.W., Azam D., Bautista M.A.M., Besnard A.-L., Bigatti G., Bouétard A., Coutellec M.-A., Ewédjè E.-E.B.K., Fuseya R., García-Jiménez R., Haratian M., Hardy O.J., Holm L.-E., Hoy C.W., Koshimizu E., Loeschcke V., López-Márquez V., Machado C.A., Machordom A., Marchi C., Michel A.P., Micheneau C., Mittapalli O., Nagai T., Okamoto N., Pan Y., Panitz F., Safaie N., Sakamoto T., Sharifnabi B., Tian E.-W., Yu H.",
+      "year": 2013,
+      "cited": 11,
+      "doi": "10.1111/1755-0998.12035",
+      "title": "Permanent Genetic Resources added to Molecular Ecology Resources Database 1 August 2012 - 30 September 2012",
+      "venue": "Molecular Ecology Resources, 13 (1), pp. 158 - 159",
+      "category": "scopus"
+    },
+    {
+      "num": 30,
+      "authors": "Shams-Bakhsh M., Shahryari F., Safarnejad M.R., Safaie N., Kachoiee S.A.",
+      "year": 2013,
+      "cited": 17,
+      "doi": "10.5812/ijb.9305",
+      "title": "Preparation of antibody against immunodominant membrane protein (IMP) of candidatus phytoplasma aurantifolia",
+      "venue": "Iranian Journal of Biotechnology, 11 (1), pp. 14 - 21",
+      "category": "scopus"
+    },
+    {
+      "num": 29,
+      "authors": "Mehrparvar M., Mohammadi Goltapeh E., Safaei N.",
+      "year": 2013,
+      "cited": 6,
+      "doi": null,
+      "title": "Resistance of Iranian Lecanicillium fungicola to benzimidazole and ergosterol demethylation inhibiting fungicides",
+      "venue": "Journal of Agricultural Science and Technology, 15 (2), pp. 389 - 395",
+      "category": "scopus"
+    },
+    {
+      "num": 28,
+      "authors": "Alizadeh-Salteh S., Safaie N., Arzani K., Omidbeigi R., Mohammadi P.",
+      "year": 2013,
+      "cited": 2,
+      "doi": "10.17660/ActaHortic.2013.1012.102",
+      "title": "Savory essential oil effect on postharvest control of rhizopus rot on packaged peaches in polyethylene films",
+      "venue": "Acta Horticulturae, 1012, pp. 759 - 762",
+      "category": "scopus"
+    },
+    {
+      "num": 27,
+      "authors": "Taliei F., Safaie N., Aghajani M.A.",
+      "year": 2013,
+      "cited": 7,
+      "doi": null,
+      "title": "Spatial distribution of Macrophomina phaseolina and soybean charcoal rot incidence using geographic information system (A case study in Northern Iran)",
+      "venue": "Journal of Agricultural Science and Technology, 15 (SUPPL), pp. 1523 - 1536",
+      "category": "scopus"
+    },
+    {
+      "num": 26,
+      "authors": "Alikhani M.A., Kachuei R., Safaei N., Golmohammadi R.",
+      "year": 2012,
+      "cited": 0,
+      "doi": null,
+      "title": "Detection and tracing of Tri16 gene in T-2 toxigenic and nontoxigenic Fusarium species by PCR",
+      "venue": "Journal of Military Medicine, 14 (1), pp. 49 - 55",
+      "category": "scopus"
+    },
+    {
+      "num": 25,
+      "authors": "Ghaneie A., Mehrabi R., Safaie N., Abrinbana M., Saidi A., Aghaee M.",
+      "year": 2012,
+      "cited": 32,
+      "doi": "10.1007/s10658-011-9862-7",
+      "title": "Genetic variation for resistance to septoria tritici blotch in Iranian tetraploid wheat landraces",
+      "venue": "European Journal of Plant Pathology, 132 (2), pp. 191 - 202",
+      "category": "scopus"
+    },
+    {
+      "num": 24,
+      "authors": "Mahdizadeh V., Safaie N., Goltapeh E.M., Mayek-Perez N.",
+      "year": 2012,
+      "cited": 3,
+      "doi": "10.1080/03235408.2012.655146",
+      "title": "Intraspecies diversity of Macrophomina phaseolina in Iran",
+      "venue": "Archives of Phytopathology and Plant Protection, 45 (8), pp. 963 - 976",
+      "category": "scopus"
+    },
+    {
+      "num": 23,
+      "authors": "Karimi E., Safaie N., Shams-bakhsh M.",
+      "year": 2012,
+      "cited": 1,
+      "doi": "10.1080/03235408.2012.655144",
+      "title": "Molecular genotyping of Sclerotinia sclerotiorum isolates from different regions and host plants in Iran",
+      "venue": "Archives of Phytopathology and Plant Protection, 45 (8), pp. 942 - 954",
+      "category": "scopus"
+    },
+    {
+      "num": 22,
+      "authors": "Karimi E., Safaie N., Shams-Bakhsh M.",
+      "year": 2012,
+      "cited": 8,
+      "doi": null,
+      "title": "Mycelial compatibility groupings and pathogenic diversity of Sclerotinia sclerotiorum (Lib.) de Bary populations on canola in Golestan Province of Iran",
+      "venue": "Journal of Agricultural Science and Technology, 14 (2), pp. 421 - 434",
+      "category": "scopus"
+    },
+    {
+      "num": 21,
+      "authors": "Ahari Mostafavi H., Mirmajlessi S.M., Safaie N., Minassyan V., Fathollahi H., Dorri H.R., Mansouripour S.M.",
+      "year": 2012,
+      "cited": 4,
+      "doi": null,
+      "title": "The use of a gamma-irradiated mutants of F",
+      "venue": "solani f.sp. phaseoli with reduced pathogenicity for the biological control of fusarium root rot of bean (Phaseolus vulgaris) in field conditions. Journal of Agricultural Science and Technology, 14 (6), pp. 1415 - 1423",
+      "category": "scopus"
+    },
+    {
+      "num": 20,
+      "authors": "Esmaeilzadeh Bahabadi S., Sharifi M., Behmanesh M., Safaie N., Murata J., Araki R., Yamagaki T., Satake H.",
+      "year": 2012,
+      "cited": 52,
+      "doi": "10.1016/j.jplph.2011.12.006",
+      "title": "Time-course changes in fungal elicitor-induced lignan synthesis and expression of the relevant genes in cell cultures of Linum album",
+      "venue": "Journal of Plant Physiology, 169 (5), pp. 487 - 491",
+      "category": "scopus"
+    },
+    {
+      "num": 19,
+      "authors": "Mahdizadeh V., Safaie N., Goltapeh E.M.",
+      "year": 2011,
+      "cited": 43,
+      "doi": "10.5423/PPJ.2011.27.2.128",
+      "title": "Diversity of Macrophomina phaseolina based on morphological and genotypic characteristics in Iran",
+      "venue": "Plant Pathology Journal, 27 (2), pp. 128 - 137",
+      "category": "scopus"
+    },
+    {
+      "num": 18,
+      "authors": "Aminian P., Azizollah A., Abbas S., Naser S.",
+      "year": 2011,
+      "cited": 10,
+      "doi": "10.2478/v10045-011-0006-z",
+      "title": "Effect of double-stranded RNAS on virulence and deoxynivalenol production of Fusarium graminearum isolates [Wpływ dwunicieniowych RNA na wirulencjȩ i wytwarzanie deoksyniwalenolu przez izolaty grzyba Fusarium graminearum]",
+      "venue": "Journal of Plant Protection Research, 51 (1), pp. 29 - 37",
+      "category": "scopus"
+    },
+    {
+      "num": 17,
+      "authors": "Alizadeh-Salteh S., Arzani K., Omidbeigi R., Safaie N.",
+      "year": 2011,
+      "cited": 9,
+      "doi": null,
+      "title": "Essential oils inhibit mycelial growth of Rhizopus stolonifer",
+      "venue": "European Journal of Horticultural Science, 76 (1), pp. 278 - 282",
+      "category": "scopus"
+    },
+    {
+      "num": 16,
+      "authors": "Bahabadi S.E., Sharifi M., Safaie N., Murata J., Yamagaki T., Satake H.",
+      "year": 2011,
+      "cited": 40,
+      "doi": "10.1007/s11816-011-0190-3",
+      "title": "Increased lignan biosynthesis in the suspension cultures of Linum album by fungal extracts",
+      "venue": "Plant Biotechnology Reports, 5 (4), pp. 367 - 373",
+      "category": "scopus"
+    },
+    {
+      "num": 15,
+      "authors": "Mahdizadeh V., Safaie N., Aghajani M.A.",
+      "year": 2011,
+      "cited": 8,
+      "doi": null,
+      "title": "New hosts of Macrophomina phaseolina in Iran",
+      "venue": "Journal of Plant Pathology, 93 (SUPPL. 4), pp. S70",
+      "category": "scopus"
+    },
+    {
+      "num": 14,
+      "authors": "Mousanejad S., Alizadeh A., Safaie N.",
+      "year": 2010,
+      "cited": 18,
+      "doi": null,
+      "title": "Assessment of yield loss due to rice blast disease in Iran",
+      "venue": "Journal of Agricultural Science and Technology, 12 (3), pp. 357 - 364",
+      "category": "scopus"
+    },
+    {
+      "num": 13,
+      "authors": "Heydari R., Pourjam E., Maafi Z.T., Safaie N.",
+      "year": 2010,
+      "cited": 3,
+      "doi": "10.1163/138855409X12511010796716",
+      "title": "Comparative host suitability of common bean cultivars to the soybean cyst nematode, Heterodera glycines, in Iran",
+      "venue": "Nematology, 12 (3), pp. 335 - 341",
+      "category": "scopus"
+    },
+    {
+      "num": 12,
+      "authors": "Aghajani M.A., Safaie N., Alizadeh A.",
+      "year": 2010,
+      "cited": 8,
+      "doi": null,
+      "title": "Disease Progress Curves of Sclerotinia Stem Rot of canola epidemics in Golestan Province, Iran",
+      "venue": "Journal of Agricultural Science and Technology, 12 (4), pp. 471 - 478",
+      "category": "scopus"
+    },
+    {
+      "num": 11,
+      "authors": "Alizadeh-Salteh S., Arzani K., Omidbeigi R., Safaie N.",
+      "year": 2010,
+      "cited": 8,
+      "doi": null,
+      "title": "Essential oils inhibit mycelial growth of Rhizopus stolonifer",
+      "venue": "European Journal of Horticultural Science, 75 (6), pp. 278 - 282",
+      "category": "scopus"
+    },
+    {
+      "num": 10,
+      "authors": "Mousanejad S., Alizadeh A., Safaie N.",
+      "year": 2009,
+      "cited": 18,
+      "doi": "10.2478/v10045-009-0051-z",
+      "title": "Effect of weather factors on spore population dynamics of rice blast fungus in guilan province",
+      "venue": "Journal of Plant Protection Research, 49 (3), pp. 319 - 329",
+      "category": "scopus"
+    },
+    {
+      "num": 9,
+      "authors": "Mirzaei S., Mohammadi Goltapeh E., Shams-Bakhsh M., Safaie N., Chaichi M.",
+      "year": 2009,
+      "cited": 36,
+      "doi": "10.1111/j.1439-0434.2008.01518.x",
+      "title": "Genetic and phenotypic diversity among botrytis cinerea isolates in Iran",
+      "venue": "Journal of Phytopathology, 157 (7-8), pp. 474 - 482",
+      "category": "scopus"
+    },
+    {
+      "num": 8,
+      "authors": "Khodayari M., Safaie N., Shamsbakhsh M.",
+      "year": 2009,
+      "cited": 37,
+      "doi": "10.1111/j.1439-0434.2009.01541.x",
+      "title": "Genetic diversity of Iranian AG1-IA isolates of rhizoctonia solani, the cause of rice sheath blight, using morphological and molecular markers",
+      "venue": "Journal of Phytopathology, 157 (11-12), pp. 708 - 714",
+      "category": "scopus"
+    },
+    {
+      "num": 7,
+      "authors": "Kachuei R., Yadegari M.H., Rezaie S., Allameh A., Safaie N., Zaini F., Khanezad Yazdi F.",
+      "year": 2009,
+      "cited": 23,
+      "doi": "10.1007/BF03178344",
+      "title": "Investigation of stored wheat mycoflora, reporting the Fusarium cf",
+      "venue": "langsethiae in three provinces of Iran during 2007. Annals of Microbiology, 59 (2), pp. 383 - 390",
+      "category": "scopus"
+    },
+    {
+      "num": 6,
+      "authors": "Mojerlou S., Safaie N., Alizadeh A., Khelghatibana F.",
+      "year": 2009,
+      "cited": 10,
+      "doi": "10.2478/v10045-009-0039-8",
+      "title": "Measuring and modeling crop loss of wheat caused by septoria leaf blotch in seven cultivars and lines in Iran",
+      "venue": "Journal of Plant Protection Research, 49 (3), pp. 257 - 262",
+      "category": "scopus"
+    },
+    {
+      "num": 5,
+      "authors": "Palizi P., Goltapeh E.M., Pourjam E., Safaie N.",
+      "year": 2009,
+      "cited": 38,
+      "doi": "10.2478/v10045-009-0004-6",
+      "title": "Potential of oyster mushrooms for the biocontrol of sugar beet nematode (Heterodera schachtii)",
+      "venue": "Journal of Plant Protection Research, 49 (1), pp. 27 - 33",
+      "category": "scopus"
+    },
+    {
+      "num": 4,
+      "authors": "Mirzaei S., Goltapeh E.M., Shams-Bakhsh M., Safaie N.",
+      "year": 2008,
+      "cited": 38,
+      "doi": "10.1111/j.1439-0434.2007.01317.x",
+      "title": "Identification of Botrytis spp",
+      "venue": "on plants grown in Iran. Journal of Phytopathology, 156 (1), pp. 21 - 28",
+      "category": "scopus"
+    },
+    {
+      "num": 3,
+      "authors": "Haratian M., Sharifnabi B., Alizadeh A., Safaie N.",
+      "year": 2008,
+      "cited": 40,
+      "doi": "10.1007/s11046-008-9127-y",
+      "title": "PCR analysis of the Tri13 gene to determine the genetic potential of Fusarium graminearum isolates from Iran to produce nivalenol and deoxynivalenol",
+      "venue": "Mycopathologia, 166 (2), pp. 109 - 116",
+      "category": "scopus"
+    },
+    {
+      "num": 2,
+      "authors": "Mitterbauer R., Weindorfer H., Safaie N., Krska R., Lemmens M., Ruckenbauer P., Kuchler K., Adam G.",
+      "year": 2003,
+      "cited": 46,
+      "doi": "10.1128/AEM.69.2.805-811.2003",
+      "title": "A sensitive and inexpensive yeast bioassay for the mycotoxin zearalenone and other compounds with estrogenic activity",
+      "venue": "Applied and Environmental Microbiology, 69 (2), pp. 805 - 811",
+      "category": "scopus"
+    },
+    {
+      "num": 1,
+      "authors": "Mitterbauer R., Bachmann H., Poppenberger B., Safaie N., Adam G.",
+      "year": 2003,
+      "cited": 1,
+      "doi": "10.1007/BF02940097",
+      "title": "Development and Applications of a Yeast-based Bioassay for the Mycotoxin Zearalenone",
+      "venue": "Mycotoxin Research, 19 (1), pp. 69 - 72",
+      "category": "scopus"
+    },
+    {
+      "num": 1,
+      "authors": "Safaie, N. and Minassian, V.",
+      "year": 1996,
+      "title": "Anastomosis grouping of Rhizoctonia causing damping off in sugar beet seedling in Khuzestan",
+      "venue": "Iranian Journal of Plant Pathology 32: 28.",
+      "cited": null,
+      "doi": null,
+      "category": "early"
+    },
+    {
+      "num": 2,
+      "authors": "Safaie, N. and Minassian, V.",
+      "year": 1997,
+      "title": "Occurrence of Ceratobasidium (Rhizoctonia fragariae) root and fruit rot of strawberries in Khuzestan province",
+      "venue": "Iranian Journal of Plant Pathology 33: 126-131.",
+      "cited": null,
+      "doi": null,
+      "category": "early"
+    },
+    {
+      "num": 3,
+      "authors": "Safaie, N., Minassian, V., Rahimian, H. and Banihashemi, Z.",
+      "year": 1999,
+      "title": "Isolation, identification and pathogenicity of Rhizoctonia fungi isolated from several host plants in Khuzestan province",
+      "venue": "Iranian Journal of Plant Pathology 35: 1-8.",
+      "cited": null,
+      "doi": null,
+      "category": "early"
+    },
+    {
+      "num": 4,
+      "authors": "Mossavi-Jorf, S. A., Alizadeh, A., Farrokhi-Nejad, R. and Safaie, N.",
+      "year": 2000,
+      "title": "Sexual incompatibility system of Iranian isolates of Tilletia indica",
+      "venue": "The Scientific Journal of Agriculture 23: 83-92.",
+      "cited": null,
+      "doi": null,
+      "category": "early"
+    },
+    {
+      "num": 5,
+      "authors": "Naseri, B., Alizadeh, A., Saeedi, A. and Safaie, N.",
+      "year": 2001,
+      "title": "Population structure of Fusarium graminearum based on vegetative compatibility groups (VCGs) and its relationship to virulence of isolates",
+      "venue": "Iranian Journal of Plant Pathology 36: 261-280.",
+      "cited": null,
+      "doi": null,
+      "category": "early"
+    },
+    {
+      "num": 6,
+      "authors": "Safaie, N. and Alizadeh, A.",
+      "year": 2001,
+      "title": "Phenotypic diversity in Fusarium graminearum isolates and introduction of a new genetic marker for the species",
+      "venue": "Iranian Journal of Plant Pathology 37: 197-208.",
+      "cited": null,
+      "doi": null,
+      "category": "early"
+    },
+    {
+      "num": 7,
+      "authors": "Mirzaee, S., Alizadeh, A. and Safaie, N.",
+      "year": 2003,
+      "title": "Temporal analysis of wheat Fusarium head blight progress in greenhouse using epidemiological models",
+      "venue": "Seed and Plant 19: 333-351.",
+      "cited": null,
+      "doi": null,
+      "category": "early"
+    }
+  ],
+  "locales": {
+    "en": {
+      "nav": {
+        "overview": "Overview",
+        "research": "Research",
+        "record": "Record",
+        "teaching": "Teaching",
+        "publications": "Publications",
+        "contact": "Contact",
+        "email": "Email"
+      },
+      "hero": {
+        "eyebrow": "Professor of Plant Pathology · est. field notes 1993–",
+        "name": "Naser\nSafaie",
+        "intro": "I study the fungi and viruses that move through cereal fields and forest canopies — how they spread, how crops resist them, and how biology and machine learning can help catch disease before it spreads further.",
+        "dept": "Department of Plant Pathology, College of Agriculture, Tarbiat Modares University, Tehran, Iran.",
+        "pubsCta": "177 publications ↓",
+        "contactCta": "Get in touch",
+        "statCareerLabel": "Career",
+        "statCareerValue": "30 yrs",
+        "statSinceLabel": "Since",
+        "statSinceValue": "1996",
+        "statPhdLabel": "Ph.D.",
+        "statPhdValue": "2002",
+        "specimenName": "Safaie, N.",
+        "specimenPlace": "Isfahan, IR",
+        "specimenDet": "det. Tarbiat Modares Univ., 2002 — present"
+      },
+      "research": {
+        "eyebrow": "Overview",
+        "heading": "From a wheat field in Khuzestan to a lab bench in Tehran",
+        "p1": "I trained as a plant pathologist across three Iranian universities — Isfahan University of Technology, Shahid Chamran University, and Tarbiat Modares University — and spent two research residencies at the Center of Applied Genetics in Vienna. Since finishing my Ph.D. in 2002 I've taught and run a research program at Tarbiat Modares, working mostly on the fungi that threaten Iran's wheat crop and the biological agents that can hold them back.",
+        "p2": "My group moves between the field, the greenhouse, and the genome: identifying pathogens, tracking how they spread across provinces, and testing endophytic fungi and bacteria as biocontrol agents. More recently that's extended into machine learning — using imaging and predictive models to spot disease and optimize growth conditions before an outbreak takes hold."
+      },
+      "record": {
+        "eyebrow": "Record",
+        "heading": "Education & appointments",
+        "projectsHeading": "Selected long-running projects",
+        "subProjects": "sub-projects",
+        "entries": [
+          {
+            "when": "1993",
+            "what": "B.Sc., Plant Protection",
+            "where": "Isfahan University of Technology, Iran"
+          },
+          {
+            "when": "1996",
+            "what": "M.Sc., Plant Pathology",
+            "where": "Shahid Chamran University, Iran"
+          },
+          {
+            "when": "2001–2002",
+            "what": "Guest Scientist",
+            "where": "Center of Applied Genetics, University of Agricultural Sciences, Vienna, Austria"
+          },
+          {
+            "when": "2002",
+            "what": "Ph.D., Plant Pathology",
+            "where": "Tarbiat Modares University, Iran"
+          },
+          {
+            "when": "2004",
+            "what": "Guest Scientist",
+            "where": "Center of Applied Genetics, University of Agricultural Sciences, Vienna, Austria"
+          },
+          {
+            "when": "2002–present",
+            "what": "Professor of Plant Pathology",
+            "where": "Department of Plant Pathology, Tarbiat Modares University, Tehran, Iran"
+          }
+        ],
+        "projects": [
+          {
+            "title": "Fusarium Head Blight of Wheat in Iran",
+            "span": "1995 — ongoing",
+            "count": "20 sub-projects",
+            "body": "A long-running program mapping FHB pressure across Iran's wheat belt and testing cultural, chemical, and biological controls against Fusarium graminearum and its mycotoxins."
+          },
+          {
+            "title": "Karnal Bunt of Wheat in Iran",
+            "span": "1995 — ongoing",
+            "count": "12 sub-projects",
+            "body": "Parallel work on Karnal bunt — surveying its spread, refining detection, and evaluating management options for a quarantine-significant wheat disease."
+          }
+        ]
+      },
+      "teaching": {
+        "eyebrow": "Teaching",
+        "heading": "Courses at Tarbiat Modares University",
+        "undergrad": "Undergraduate",
+        "grad": "Graduate",
+        "undergradCourses": [
+          "Introductory Mycology",
+          "Plant Diseases"
+        ],
+        "gradCourses": [
+          "Plant Disease Management",
+          "Advanced Mycology I",
+          "Advanced Mycology II",
+          "Physiology of Fungi",
+          "Genetics of Plant Pathogens",
+          "Epidemiology of Plant Diseases"
+        ]
+      },
+      "publicationsSection": {
+        "eyebrow": "Index",
+        "heading": "Publications, 1996–2026",
+        "entriesLabel": "{shown} / {total} entries",
+        "searchPlaceholder": "Search title, author, or journal…",
+        "allYears": "All years",
+        "sortNewest": "Newest first",
+        "sortOldest": "Oldest first",
+        "sortCited": "Most cited",
+        "noMatch": "No entries match “{query}”. Try a different term.",
+        "languageNote": "Titles are listed as published, in their original language of publication."
+      },
+      "contact": {
+        "eyebrow": "Contact",
+        "heading": "Reach out about collaboration, review, or graduate supervision",
+        "emailLabel": "Email",
+        "telLabel": "Telephone",
+        "faxLabel": "Fax",
+        "deptLabel": "Department",
+        "deptValue": "Department of Plant Pathology, College of Agriculture,\nTarbiat Modares University, Tehran, Iran",
+        "footer": "Built with Next.js"
+      }
+    },
+    "fa": {
+      "nav": {
+        "overview": "نمای کلی",
+        "research": "پژوهش",
+        "record": "سوابق",
+        "teaching": "تدریس",
+        "publications": "انتشارات",
+        "contact": "تماس",
+        "email": "ایمیل"
+      },
+      "hero": {
+        "eyebrow": "استاد بیماری‌شناسی گیاهی · یادداشت‌های میدانی از ۱۹۹۳",
+        "name": "ناصر\nصفایی",
+        "intro": "من قارچ‌ها و ویروس‌هایی را مطالعه می‌کنم که در مزارع غلات و پوشش جنگل‌ها گسترش می‌یابند؛ این‌که چگونه منتشر می‌شوند، گیاهان زراعی چگونه در برابر آن‌ها مقاومت می‌کنند، و زیست‌شناسی و یادگیری ماشین چگونه می‌توانند به شناسایی بیماری پیش از گسترش بیشتر آن کمک کنند.",
+        "dept": "گروه بیماری‌شناسی گیاهی، دانشکده کشاورزی، دانشگاه تربیت مدرس، تهران، ایران.",
+        "pubsCta": "۱۷۷ مقاله ↓",
+        "contactCta": "در تماس باشید",
+        "statCareerLabel": "سابقه فعالیت",
+        "statCareerValue": "۳۰ سال",
+        "statSinceLabel": "از سال",
+        "statSinceValue": "۱۹۹۶",
+        "statPhdLabel": "دکتری",
+        "statPhdValue": "۲۰۰۲",
+        "specimenName": "صفایی، ن.",
+        "specimenPlace": "اصفهان، ایران",
+        "specimenDet": "دانشگاه تربیت مدرس، ۲۰۰۲ — اکنون"
+      },
+      "research": {
+        "eyebrow": "کلیات",
+        "heading": "از مزرعه گندم در خوزستان تا میز آزمایشگاه در تهران",
+        "p1": "من دانش‌آموخته بیماری‌شناسی گیاهی در سه دانشگاه ایرانی هستم — دانشگاه صنعتی اصفهان، دانشگاه شهید چمران اهواز، و دانشگاه تربیت مدرس — و دو دوره پژوهشی مهمان در مرکز ژنتیک کاربردی دانشگاه علوم کشاورزی وین گذرانده‌ام. از زمان اخذ دکتری در سال ۲۰۰۲، در دانشگاه تربیت مدرس تدریس کرده و برنامه پژوهشی‌ام را بیشتر بر قارچ‌هایی متمرکز کرده‌ام که کشت گندم ایران را تهدید می‌کنند و عوامل زیستی که می‌توانند در برابر آن‌ها مقاومت ایجاد کنند.",
+        "p2": "گروه پژوهشی من میان مزرعه، گلخانه و ژنوم در رفت‌وآمد است: شناسایی بیمارگرها، ردیابی گسترش آن‌ها در سطح استان‌ها، و آزمایش قارچ‌ها و باکتری‌های اندوفیت به‌عنوان عوامل کنترل زیستی. در سال‌های اخیر این کار به یادگیری ماشین نیز گسترش یافته است — استفاده از تصویربرداری و مدل‌های پیش‌بین برای شناسایی زودهنگام بیماری و بهینه‌سازی شرایط رشد پیش از شیوع."
+      },
+      "record": {
+        "eyebrow": "سوابق",
+        "heading": "تحصیلات و سمت‌های پژوهشی",
+        "projectsHeading": "پروژه‌های بلندمدت منتخب",
+        "subProjects": "زیرپروژه",
+        "entries": [
+          {
+            "when": "۱۹۹۳",
+            "what": "کارشناسی، گیاه‌پزشکی",
+            "where": "دانشگاه صنعتی اصفهان، ایران"
+          },
+          {
+            "when": "۱۹۹۶",
+            "what": "کارشناسی ارشد، بیماری‌شناسی گیاهی",
+            "where": "دانشگاه شهید چمران اهواز، ایران"
+          },
+          {
+            "when": "۲۰۰۱–۲۰۰۲",
+            "what": "پژوهشگر مهمان",
+            "where": "مرکز ژنتیک کاربردی، دانشگاه علوم کشاورزی وین، اتریش"
+          },
+          {
+            "when": "۲۰۰۲",
+            "what": "دکتری، بیماری‌شناسی گیاهی",
+            "where": "دانشگاه تربیت مدرس، ایران"
+          },
+          {
+            "when": "۲۰۰۴",
+            "what": "پژوهشگر مهمان",
+            "where": "مرکز ژنتیک کاربردی، دانشگاه علوم کشاورزی وین، اتریش"
+          },
+          {
+            "when": "۲۰۰۲–اکنون",
+            "what": "استاد بیماری‌شناسی گیاهی",
+            "where": "گروه بیماری‌شناسی گیاهی، دانشگاه تربیت مدرس، تهران، ایران"
+          }
+        ],
+        "projects": [
+          {
+            "title": "بلایت فوزاریومی سنبله گندم در ایران",
+            "span": "۱۹۹۵ — تاکنون",
+            "count": "۲۰ زیرپروژه",
+            "body": "برنامه‌ای بلندمدت برای نقشه‌برداری از فشار بیماری FHB در کمربند گندم ایران و آزمایش روش‌های کنترل زراعی، شیمیایی و زیستی در برابر Fusarium graminearum و مایکوتوکسین‌های آن."
+          },
+          {
+            "title": "سیاهک پنهان گندم (کارنال بانت) در ایران",
+            "span": "۱۹۹۵ — تاکنون",
+            "count": "۱۲ زیرپروژه",
+            "body": "کاری موازی بر روی سیاهک پنهان گندم — بررسی گسترش آن، بهبود روش‌های تشخیص، و ارزیابی گزینه‌های مدیریتی برای بیماری‌ای با اهمیت قرنطینه‌ای."
+          }
+        ]
+      },
+      "teaching": {
+        "eyebrow": "تدریس",
+        "heading": "دروس ارائه‌شده در دانشگاه تربیت مدرس",
+        "undergrad": "کارشناسی",
+        "grad": "تحصیلات تکمیلی",
+        "undergradCourses": [
+          "قارچ‌شناسی مقدماتی",
+          "بیماری‌های گیاهی"
+        ],
+        "gradCourses": [
+          "مدیریت بیماری‌های گیاهی",
+          "قارچ‌شناسی پیشرفته ۱",
+          "قارچ‌شناسی پیشرفته ۲",
+          "فیزیولوژی قارچ‌ها",
+          "ژنتیک بیمارگرهای گیاهی",
+          "اپیدمیولوژی بیماری‌های گیاهی"
+        ]
+      },
+      "publicationsSection": {
+        "eyebrow": "فهرست",
+        "heading": "انتشارات، ۱۹۹۶–۲۰۲۶",
+        "entriesLabel": "{shown} از {total} مورد",
+        "searchPlaceholder": "جست‌وجوی عنوان، نویسنده یا مجله…",
+        "allYears": "همه سال‌ها",
+        "sortNewest": "جدیدترین",
+        "sortOldest": "قدیمی‌ترین",
+        "sortCited": "پراستنادترین",
+        "noMatch": "موردی برای «{query}» یافت نشد. عبارت دیگری را امتحان کنید.",
+        "languageNote": "عناوین به همان زبانی که منتشر شده‌اند (عمدتاً انگلیسی) نمایش داده می‌شوند."
+      },
+      "contact": {
+        "eyebrow": "تماس",
+        "heading": "برای همکاری پژوهشی، داوری، یا راهنمایی تحصیلات تکمیلی در تماس باشید",
+        "emailLabel": "ایمیل",
+        "telLabel": "تلفن",
+        "faxLabel": "دورنگار",
+        "deptLabel": "گروه آموزشی",
+        "deptValue": "گروه بیماری‌شناسی گیاهی، دانشکده کشاورزی،\nدانشگاه تربیت مدرس، تهران، ایران",
+        "footer": "ساخته‌شده با Next.js"
+      }
+    }
+  }
+}

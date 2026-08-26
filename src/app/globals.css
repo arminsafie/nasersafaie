@@ -1,0 +1,183 @@
+@import "tailwindcss";
+
+/* Two section themes — a deep botanical dark and a warm paper light —
+   alternated down the page. Each defines the same token names so every
+   component (built on --color-* Tailwind utilities) adapts automatically
+   to whichever theme wraps it, no per-component color logic needed. */
+
+:root,
+.theme-dark {
+  --bg: #12180e;
+  --bg-panel: #1b2415;
+  --bg-raised: #232f1b;
+  --ink: #ede7d5;
+  --ink-soft: #c9ceb9;
+  --ink-muted: #8e9a81;
+  --line: #313d28;
+  --line-soft: #212b19;
+  --rust: #cd8347;
+  --rust-soft: #ad6b34;
+  --moss: #96b57f;
+  --moss-soft: #6f8c5c;
+  --navy: #4e7ac7;
+  --navy-soft: #3a5fa0;
+  --navy-tint: #8fade0;
+  --paper: #ede7d5;
+  --grain: 237 231 213;
+}
+
+.theme-light {
+  --bg: #e8e2cf;
+  --bg-panel: #ddd5bc;
+  --bg-raised: #d0c6a8;
+  --ink: #23200f;
+  --ink-soft: #4a4630;
+  --ink-muted: #726c52;
+  --line: #c7bc9c;
+  --line-soft: #d6ccac;
+  --rust: #a85a2a;
+  --rust-soft: #8c4a22;
+  --moss: #4c7538;
+  --moss-soft: #3b5c2b;
+  --navy: #183768;
+  --navy-soft: #12294e;
+  --navy-tint: #3a5c94;
+  --paper: #e8e2cf;
+  --grain: 35 32 15;
+}
+
+.theme-dark,
+.theme-light {
+  background-color: var(--bg);
+  color: var(--ink);
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-bg-panel: var(--bg-panel);
+  --color-bg-raised: var(--bg-raised);
+  --color-ink: var(--ink);
+  --color-ink-soft: var(--ink-soft);
+  --color-ink-muted: var(--ink-muted);
+  --color-line: var(--line);
+  --color-line-soft: var(--line-soft);
+  --color-rust: var(--rust);
+  --color-rust-soft: var(--rust-soft);
+  --color-moss: var(--moss);
+  --color-moss-soft: var(--moss-soft);
+  --color-paper: var(--paper);
+  --color-navy: var(--navy);
+  --color-navy-soft: var(--navy-soft);
+  --color-navy-tint: var(--navy-tint);
+
+  --font-display: var(--font-fraunces);
+  --font-body: var(--font-source-serif);
+  --font-mono: var(--font-plex-mono);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-body), Georgia, serif;
+}
+
+::selection {
+  background: var(--rust);
+  color: var(--bg);
+}
+
+a {
+  color: inherit;
+}
+
+/* Defensive reset for real mobile browsers: make sure nothing accidentally
+   blocks or delays taps on interactive elements (a known trip-up on iOS
+   Safari in particular, especially combined with sticky/backdrop-filter
+   elements). */
+a,
+button {
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+}
+
+header,
+header * {
+  pointer-events: auto;
+}
+
+:focus-visible {
+  outline: 2px solid var(--rust);
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+
+.font-display {
+  font-family: var(--font-display), serif;
+}
+
+.font-mono {
+  font-family: var(--font-mono), monospace;
+}
+
+/* Persian typography: swap the Latin serif/mono pairing for a
+   Naskh display face and the Vazirmatn UI face, and relax mono
+   tracking since Persian has no equivalent of small-caps letterspacing. */
+html[lang="fa"] body {
+  font-family: var(--font-persian-ui), "Vazirmatn", sans-serif;
+}
+
+html[lang="fa"] .font-display {
+  font-family: var(--font-persian-display), "Noto Naskh Arabic", serif;
+  font-style: normal;
+}
+
+html[lang="fa"] .font-mono {
+  font-family: var(--font-persian-ui), "Vazirmatn", sans-serif;
+  letter-spacing: 0;
+}
+
+html[dir="rtl"] i,
+html[dir="rtl"] em {
+  font-style: normal;
+}
+
+html[dir="rtl"] .index-scroll::-webkit-scrollbar {
+  width: 6px;
+}
+
+.paper-grain {
+  background-image:
+    radial-gradient(circle at 20% 20%, rgb(var(--grain) / 0.035), transparent 40%),
+    radial-gradient(circle at 80% 60%, rgb(var(--grain) / 0.025), transparent 45%);
+}
+
+.index-scroll::-webkit-scrollbar {
+  width: 6px;
+}
+.index-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
+.index-scroll::-webkit-scrollbar-thumb {
+  background: var(--line);
+  border-radius: 3px;
+}
